@@ -10,4 +10,4 @@ DocumentRoot "C:/Users/USER/Desktop/motifla"  ( 你放的檔案位置 )
 接著重啟 apache 
 網址輸入 127.0.0.1   port 80
 
-就可以看到網頁 t
+就可以看到網頁

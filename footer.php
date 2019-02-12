@@ -1,0 +1,1 @@
+<footer class="copyright">&copy; 2018 Motif Planning & Design Consultants</footer>
