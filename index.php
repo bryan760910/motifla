@@ -13,7 +13,7 @@
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
-
+		<link rel="icon" type="image/png" href="/theme/images/metered-manual.png">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -25,7 +25,7 @@
 			crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			crossorigin="anonymous"></script>
-		<title>Motif Landscape</title>
+		<title>│  Motif Landscape</title>
 		<style>
 		.carousel-control-next-icon,
         .carousel-control-prev-icon {
@@ -58,6 +58,16 @@
 						<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="19"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="20"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="21"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="22"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
@@ -110,6 +120,36 @@
 						</div>
 						<div class="carousel-item">
 							<img class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
