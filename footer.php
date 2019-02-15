@@ -1,1 +1,1 @@
-<footer class="copyright">&copy; 2018 Motif Planning & Design Consultants</footer>
+<footer class="inner_wrapper" style="color:#999;text-align:center">&copy; 2018 Motif Planning & Design Consultants</footer>
