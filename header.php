@@ -28,8 +28,8 @@
                         </li>
                     </ul>
                 </div>
-                <i id="menu-button" class="fas fa-bars fa-2x"></i>
-                <i id="menu-closebutton" class="fas fa-times fa-2x" style="display:none;"></i>
+                <i id="menu-button" class="fas fa-bars fa-3x"></i>
+                <i id="menu-closebutton" class="fas fa-times fa-3x" style="display:none;"></i>
             </div>
             <p>太研規劃設計顧問有限公司 Motif Planning & Design Consultants</p>
             <div class="mobile-nav-wrapper">

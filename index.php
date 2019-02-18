@@ -36,120 +36,24 @@
 	</head>
 
 	<body>
-		<div class="container">
+		<div class="wrapper">
 			<?php include 'header.php' ?>
 			<div class="inner_wrapper " style="min-width:300px">
             	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
+					<ol class="carousel-indicators mb-3">
 						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="19"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="20"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="21"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="22"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
 					</ol>
 					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="/theme/images/sliderImg/1.jpg" alt="First slide">
+						<div class="active carousel-item">
+						<img style="height:756px" class="d-block w-100" src="https://static1.squarespace.com/static/51819b9fe4b03000ce6f03ea/59f10dd59f8dced90e4fa72f/5b3d1f27575d1fd7a474eb5d/1548846929480/R_Hjortshoj+-+Streetmekka+Vib+WEB-233.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/2.jpg" alt="Second slide">
+						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/4.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/5.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/6.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/7.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/8.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/9.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/10.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/11.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/12.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/13.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/14.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/15.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/16.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
+						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -165,6 +69,19 @@
 			<?php include 'footer.php' ?>
 		</div>
 		<script type="text/javascript">
+
+				$(window).resize(function() {
+					var nWidth = $(window).width();//取得使用者螢幕寬
+					console.log(nWidth);
+					if (nWidth > 1040)
+					{
+						$('img.d-block').addClass( "w-100" );
+					}
+					else
+					{
+						$('img.d-block').removeClass( "w-100" );
+					}
+				});
 			$(function(){
 				$('.carousel').carousel({
   				interval: 5000,
