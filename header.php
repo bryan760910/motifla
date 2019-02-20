@@ -28,11 +28,14 @@
                         </li>
                     </ul>
                 </div>
-                <i id="menu-button" class="fas fa-bars fa-3x"></i>
-                <i id="menu-closebutton" class="fas fa-times fa-3x" style="display:none;"></i>
+                <div style="z-index:9999;">
+                    <i id="menu-button" class="fas fa-bars fa-3x"></i>
+                    <i id="menu-closebutton" class="fas fa-times fa-3x" style="display:none;"></i>
+                </div>
             </div>
             <p>太研規劃設計顧問有限公司 Motif Planning & Design Consultants</p>
-            <div class="mobile-nav-wrapper">
+        </header>
+        <div class="mobile-nav-wrapper">
                 <ul>
                     <li>
                         <a href="/member.php">ABOUT</a>
@@ -50,8 +53,7 @@
                         <a href="/contact.php">CONTACT</a>
                     </li>
                 </ul>
-            </div>
-        </header>
+        </div>
 
 <script>
     $(function () {

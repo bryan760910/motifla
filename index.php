@@ -69,17 +69,16 @@
 			<?php include 'footer.php' ?>
 		</div>
 		<script type="text/javascript">
-
 				$(window).resize(function() {
 					var nWidth = $(window).width();//取得使用者螢幕寬
-					console.log(nWidth);
-					if (nWidth > 1040)
+					var nHeight = $(window).height();//取得使用者螢幕寬
+					if (nWidth < 1140)
 					{
-						$('img.d-block').addClass( "w-100" );
+						$('img.d-block').css( "height", nHeight+"px");
 					}
-					else
+					else if(nWidth > 1140)
 					{
-						$('img.d-block').removeClass( "w-100" );
+						$('img.d-block').css( "height", 756+"px");
 					}
 				});
 			$(function(){

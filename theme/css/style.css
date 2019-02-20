@@ -66,10 +66,6 @@ h3 { font-size: 21px; font-weight: bold; margin: 12px 0 12px 0;}
 /* main css              */
 /*=======================*/
 
-.wrapper{
-width: 100%;
-height: 100%;
-}
 @media (min-width: 1140px){
     .wrapper {
         max-width: 1140px;
@@ -156,12 +152,12 @@ header>p {
     margin: 0;
     position: absolute;
     width: 100%;
-    top: 240px;
+    top: 50%;
     -moz-transform: translatey(-50%);
     -ms-transform: translatey(-50%);
     -webkit-transform: translatey(-50%);
     transform: translatey(-50%);
-    background: rgba(255, 255, 255, .9500000000000001);
+    background: rgba(255, 255, 255, .9500000000000001)no-repeat;
     opacity: 1;
     z-index: 19;
 }
@@ -246,30 +242,12 @@ header>p {
 .wrapper .showcase_page .pic_vis { width:293px; height:200px; }
 .wrapper .showcase_page .pic_vis_text { margin-top:5px; visibility: hidden; }
 
-
-
-
-.carousel .item {
-    position: fixed; 
-    width:100%;
-    height: 80%;
-}
-.carousel .one {
-    background: url('../images/sliderImg/1.jpg');
-    background-repeat:no-repeat;
-    background-size: 80px 60px;
-    -moz-background-size: 80px 60px;
-}
-.carousel .two {
-    background: url('../images/sliderImg/2.jpg');
-    background-repeat:no-repeat;
-    background-size: 80px 60px;
-    -moz-background-size: 80px 60px;
-}
-.carousel .three {
-    background: url('../images/sliderImg/3.jpg');
-    background-repeat:no-repeat;
-    background-size: cover;
-    -moz-background-size: cover;
+/*===========================*/
+/* carousel css         */
+/*===========================*/
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    width: 24px;
+    height: 24px;
 }
 
