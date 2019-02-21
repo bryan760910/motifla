@@ -27,11 +27,6 @@
 			crossorigin="anonymous"></script>
 		<title>│  Motif Landscape</title>
 		<style>
-		.carousel-control-next-icon,
-        .carousel-control-prev-icon {
-            width: 24px;
-            height: 24px;
-		}
 		</style>
 	</head>
 
@@ -82,6 +77,16 @@
 					}
 				});
 			$(function(){
+					var nWidth = $(window).width();//取得使用者螢幕寬
+					var nHeight = $(window).height();//取得使用者螢幕寬
+					if (nWidth < 1140)
+					{
+						$('img.d-block').css( "height", nHeight+"px");
+					}
+					else if(nWidth > 1140)
+					{
+						$('img.d-block').css( "height", 756+"px");
+					}
 				$('.carousel').carousel({
   				interval: 5000,
 				  wrap:true,

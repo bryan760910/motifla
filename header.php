@@ -30,12 +30,26 @@
                 </div>
                 <div style="z-index:9999;">
                     <i id="menu-button" class="fas fa-bars fa-3x"></i>
-                    <i id="menu-closebutton" class="fas fa-times fa-3x" style="display:none;"></i>
                 </div>
             </div>
             <p>太研規劃設計顧問有限公司 Motif Planning & Design Consultants</p>
         </header>
         <div class="mobile-nav-wrapper">
+        <div class="header-container">
+                <div class="header-logo">
+                    <a class="motif_logo_img" href="/index.php" style="display:none;">
+                        <img src="/theme/images/logo001.jpg" width='140' height='30' />
+                    </a>
+                    <a class="motif_logo_img" href="/index.php">
+                        <img src="/theme/images/logo02.jpg" width='140' height='30' />
+                    </a>
+                </div>
+                <div class="header-nav">
+                </div>
+                <div>
+                    <i id="menu-closebutton" class="fas fa-times fa-3x"></i>
+                </div>
+            </div>
                 <ul>
                     <li>
                         <a href="/member.php">ABOUT</a>
