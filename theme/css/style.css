@@ -165,18 +165,13 @@ header>p {
 .mobile-nav-wrapper>ul{
     margin-top: 50%;
 }
-@media screen and  (orientation:landscape) {
-    .mobile-nav-wrapper>ul{
-        margin-top: 5%;
-    }
-}
 .mobile-nav-wrapper>ul>li>a {
     font-weight: 800;
     font-style: normal;
     font-size: 25px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    line-height: 120%;
+    line-height: 150%;
     text-decoration: none;
     color: #888;
     -moz-transition: color .24s ease-out;
@@ -185,7 +180,14 @@ header>p {
     transition: color .24s ease-out;
 }
 
-
+@media screen and  (orientation:landscape) {
+    .mobile-nav-wrapper>ul {
+        margin-top: 5%;
+    }
+    .mobile-nav-wrapper>ul>li>a {
+        line-height:180%
+    }
+}
 @media only screen and (max-width: 1140px) {
     .header_menu {
         display: none;

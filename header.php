@@ -28,7 +28,7 @@
                         </li>
                     </ul>
                 </div>
-                <div style="z-index:9999;">
+                <div>
                     <i id="menu-button" class="fas fa-bars fa-3x"></i>
                 </div>
             </div>
@@ -76,8 +76,11 @@
             var text = $(this).attr("data-zhname");
 
             var liwidth = $(this).width();
+            console.log("長度" + liwidth);
             var lipaddingright = parseInt($(this).parent("li").css("paddingRight"));
+            console.log("右長度" + lipaddingright);
             var lipaddingleft = parseInt($(this).parent("li").css("paddingLeft"));
+            console.log("左長度" + lipaddingleft);
             var all = liwidth + lipaddingright + lipaddingleft;
             $(this).width(50);
             $(this).parent("li").css("paddingLeft", all - (50 + lipaddingright));
@@ -108,6 +111,20 @@
             $("#menu-closebutton").css("display", "none");
             $("#menu-button").css("display", "block");
         });
+
+        $(window).resize(function() {
+					var nWidth = $(window).width();//取得使用者螢幕寬
+					if (nWidth > 1140)
+					{
+                        console.log("yes");
+						$('#menu-button').css( "display", "none");
+					}
+                    else if(nWidth < 1140)
+                    {
+                        console.log("no");
+                        $('#menu-button').css( "display", "block");
+                    }
+				});
     });
 
 </script>
