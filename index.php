@@ -29,7 +29,6 @@
 		<style>
 		</style>
 	</head>
-
 	<body>
 		<div class="wrapper">
 			<?php include 'header.php' ?>
@@ -87,11 +86,11 @@
 					{
 						$('img.d-block').css( "height", 756+"px");
 					}
-				$('.carousel').carousel({
-  				interval: 5000,
-				  wrap:true,
-				});
-			});
+						$('.carousel').carousel({
+						interval: 5000,
+						wrap:true,
+						});
+					});
 		</script>
 	</body>
 </html>

@@ -59,7 +59,7 @@ h3 { font-size: 21px; font-weight: bold; margin: 12px 0 12px 0;}
 .inner_wrapper { margin-top: 0px; }
 
 @media (min-width: 1140px){
-    .inner_wrapper { margin-top: 80px; }
+    .inner_wrapper { margin-top: 200px; }
 }
 
 /*=======================*/
@@ -86,10 +86,11 @@ header {
 }
 @media (min-width: 1140px){
     header {
-        position: relative;
+        position: fixed;
         max-width: 1140px;
         margin-right: auto;
         margin-left: auto;
+        top:0;
     }
 }
 @media only screen and (max-width: 1140px) {
@@ -195,7 +196,7 @@ header>p {
     }
     .header-container .fas {
         cursor: pointer;
-        display: inline;
+        /*display: block;*/
     }
     .mobile-nav-wrapper>ul>li>a:hover {
         color: black;
