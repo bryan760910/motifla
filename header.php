@@ -21,7 +21,7 @@
                             <a href="/concept.php" class="header_menu_item" data-name="PUBLICATION" data-zhname="作品出版">PUBLICATION</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="javascript:;" class="header_menu_item" data-name="NEWS" data-zhname="獲獎資訊">NEWS</a>
+                            <a href="javascript:;" class="header_menu_item" data-name="AWARDS" data-zhname="獲獎資訊">NEWS</a>
                         </li>
                         <li class="header_menu_li">
                             <a href="/contact.php" class="header_menu_item" data-name="CONTACT" data-zhname="聯絡我們">CONTACT</a>
@@ -102,7 +102,7 @@
             var text = $(this).attr("data-name");
             $(this).html(text);
             $(this).width("auto");
-            $(this).parent("li").css("paddingLeft", "40px");
+            $(this).parent("li").css("paddingLeft", "25px");
         });
 
 

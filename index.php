@@ -27,12 +27,15 @@
 			crossorigin="anonymous"></script>
 		<title>│  Motif Landscape</title>
 		<style>
+			header {
+				background-color:transparent;
+			}
 		</style>
 	</head>
 	<body>
 		<div class="wrapper">
 			<?php include 'header.php' ?>
-			<div class="inner_wrapper " style="min-width:300px">
+			<div class="index_wrapper" style="min-width:300px">
             	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators mb-3">
 						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
