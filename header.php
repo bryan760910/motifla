@@ -18,10 +18,10 @@
                             <a href="/showcase.php" class="header_menu_item" data-name="PROJECTS" data-zhname="案例實績">PROJECTS</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="/concept.php" class="header_menu_item" data-name="PUBLICATION" data-zhname="作品出版">PUBLICATION</a>
+                            <a href="/Publications.php" class="header_menu_item" data-name="PUBLICATION" data-zhname="作品出版">PUBLICATION</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="javascript:;" class="header_menu_item" data-name="AWARDS" data-zhname="獲獎資訊">AWARDS</a>
+                            <a href="/awards.php" class="header_menu_item" data-name="AWARDS" data-zhname="獲獎資訊">AWARDS</a>
                         </li>
                         <li class="header_menu_li">
                             <a href="/contact.php" class="header_menu_item" data-name="CONTACT" data-zhname="聯絡我們">CONTACT</a>
@@ -58,10 +58,10 @@
                         <a href="/showcase.php">PROJECTS</a>
                     </li>
                     <li>
-                        <a href="/concept.php">PUBLICATION</a>
+                        <a href="/Publications.php">PUBLICATION</a>
                     </li>
                     <li>
-                        <a href="javascript:;">AWARDS</a>
+                        <a href="/awards.php">AWARDS</a>
                     </li>
                     <li>
                         <a href="/contact.php">CONTACT</a>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
+<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -19,43 +19,83 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-			crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-			crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-			crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 		<title>│  Motif Landscape</title>
-    </head>
-	
+		<script type="text/javascript">
+		$(function () {
+
+			$('#gotop').click(function () {
+				$('html,body').animate({
+					scrollTop: 0
+				}, 'slow'); /* 返回到最頂上 */
+				return false;
+			});
+			
+
+			$(window).scroll(function () {
+			if ($(this).scrollTop() > 0)
+				{
+					var nWidth = $(window).width();//取得使用者螢幕寬
+					/*$(window).resize(function() {*/
+					if(nWidth>1140)
+						{
+						$('#gotop').fadeIn();
+						}
+					else 
+						{
+							$('#gotop').fadeOut();
+						}
+					/*});*/
+				}
+			else
+				{
+					$('#gotop').fadeOut();
+				}
+			})
+		});
+	</script>
+	</head>
     <body>
+        <a href="#" id="gotop">
+		</a>
         <div class="wrapper">
             <?php include 'header.php' ?>
-            <div class="publications_page clearfix inner_wrapper" style="margin-top:20%;">
+            <div class="publications_page clearfix inner_wrapper">
                 <div class="leftside">
                     <img class ="left_content" src="/theme/images/Publications.jpg" />
+                    <p>News</br>2018 陽明山美軍基地，第五屆景觀大獎 首獎 </a>
+                    </p><br/>  
                 </div>
                 <div class="rightside clearfix">
                     <div class="right_content f_right">
-                        <p>2014  臺灣建築學會會刊雜誌 / 75期 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp吹鯨之浪 ─ 英倫景觀都市主義教育新浪潮 </p> <br />  
+                        <p><a href="/news/20140720.php">2014  臺灣建築學會會刊雜誌 / 75期 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp吹鯨之浪 ─ 英倫景觀都市主義教育新浪潮 </a>
+                        </p>
+                        <br/>  
 
-                        <p>2014  東海大學教學卓越計畫 / 學務處期刊 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </p> <br />  
+                        <p><a href="/news/20141218.php">2014  東海大學教學卓越計畫 / 學務處期刊 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
+                        </p>
+                        <br/>  
 
-                        <p>2015  中國時報 /人物專訪 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </p> <br />  
+                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2015  中國時報 /人物專訪 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
+                        </p>
+                        <br/>  
 
-                        <p>2016  臺灣建築TA雜誌 / Vol.250 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </p> <br />  
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=938">2016  臺灣建築TA雜誌 / Vol.250 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </a>
+                        </p>
+                        <br/>
 
-                        <p>2016  欣傳媒 Xin Media </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3 </p> <br />  
+                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2016  欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3</a>
+                        </p>
+                        <br/>
 
-                        <p>2017  臺灣建築TA雜誌 / Vol.256 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </p> <br />  
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=1126">2017  臺灣建築TA雜誌 / Vol.256</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </a>
+                        </p>
+                        <br/> 
 
                         <p>2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </p>
+                        <p><a href="http://www.xuexue.tw/pkn/even.html">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsphttp://www.xuexue.tw/pkn/even.html</a></p>
                         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </p> <br />  
 
                         <p>2018  天下雜誌 / 台中花博專訪 659期 </p>
@@ -64,7 +104,7 @@
 						<p>2018  天下雜誌 / 花博專書，林保寶著 </p>
                         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花開的聲音 - 當臺中遇見花博 2018 臺中世界花卉博覽會 </p> <br />  
 
-                        <p>2018臺灣建築TA雜誌 / Vol. 278 </p>
+                        <p>2018 臺灣建築TA雜誌 / Vol. 278 </p>
                         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會｜臺中市城市再造 </p> <br />  
 
                         <p>2018  TADA 臺中市建築經營協會 / Vol.3 </p>
@@ -75,17 +115,21 @@
 
                         <p>2018 臺南設計週盛宴 - 城市設計論壇</p><br />  
 
-                        <p>2019 欣傳媒 Xin Media  </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </p> <br />  
+                        <p><a href="https://solomo.xinmedia.com/archi/158746-motifla">2019 欣傳媒 Xin Media  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </a>
+                        </p>
+                        <br/>
 
-                        <p>2019 欣傳媒 Xin Media </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </p> <br />  
-
-                        <p>2019 瘋設計 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </p> <br />  
+                        <p><a href="https://solomo.xinmedia.com/archi/160512-Motif">2019 欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </a>
+                        </p>
+                        <br/>
+                        
+                        <p><a href="https://www.fundesign.tv/landscape/?fbclid=IwAR3bAZr9AKJDEBNPbYRCqX8Z3U2b1ens6fQVLzhRZjM3yuh04V0DizsrKIg">2019 瘋設計 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </a>
+                        </p>
+                        <br/> 
                     </div>
                 </div>
             </div>
+            <?php include 'footer.php' ?>
         </div>
     </body>
 

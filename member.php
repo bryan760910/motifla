@@ -42,7 +42,6 @@
 					if(nWidth>1140)
 						{
 						$('#gotop').fadeIn();
-						console.log(nWidth);
 						}
 					else 
 						{
@@ -79,7 +78,7 @@
 			</a>
 		<div class="wrapper">
 			<?php include 'header.php' ?>
-			<div class="profile_page clearfix inner_wrapper" style="margin-top:20%;">
+			<div class="profile_page clearfix inner_wrapper">
 				<div class="rightside">
                     <div class="right_content f_right">
 						<img class ="right_content" src="/theme/images/concept.jpg" />

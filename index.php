@@ -25,6 +25,9 @@
 			crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			crossorigin="anonymous"></script>
+		<script src="cdn.bootcss.com/hammer.js/2.0.8/hammer.min.js"></script>
+
+		<script type="text/JavaScript" src="/theme/js/plugin/jquery.bxslider/plugins/toucher.js"></script>
 		<title>│  Motif Landscape</title>
 		<style>
 			header {
@@ -66,6 +69,16 @@
 			<?php include 'footer.php' ?>
 		</div>
 		<script type="text/javascript">
+					var nWidth = $(window).width();//取得使用者螢幕寬
+					var nHeight = $(window).height();//取得使用者螢幕寬
+					if (nWidth < 1140)
+					{
+						$('img.d-block').css( "height", nHeight+"px");
+					}
+					else if(nWidth > 1140)
+					{
+						$('img.d-block').css( "height", 756+"px");
+					}
 				$(window).resize(function() {
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
@@ -79,6 +92,14 @@
 					}
 				});
 			$(function(){
+
+					var myTouch = util.toucher(document.getElementById('carouselExampleIndicators')); 
+					myTouch.on('swipeLeft',function(e){ 
+					$('.carousel-control-next').click(); 
+					}).on('swipeRight',function(e){ 
+					$('.carousel-control-prev').click(); 
+					}); 
+
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
 					if (nWidth < 1140)
