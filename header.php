@@ -95,8 +95,8 @@
             var lipaddingright = parseInt($(this).parent("li").css("paddingRight"));
             var lipaddingleft = parseInt($(this).parent("li").css("paddingLeft"));
             var all = liwidth + lipaddingright + lipaddingleft;
-            $(this).width(50);
-            $(this).parent("li").css("paddingLeft", all - (50 + lipaddingright));
+            $(this).width(75);
+            $(this).parent("li").css("paddingLeft", all - (75 + lipaddingright));
             $(this).html(text);
         }).mouseleave(function () {
             var text = $(this).attr("data-name");

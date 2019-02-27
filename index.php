@@ -25,13 +25,7 @@
 			crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			crossorigin="anonymous"></script>
-		<script type="text/JavaScript" src="/theme/js/plugin/jquery.bxslider/plugins/toucher.js"></script>
 		<title>│  Motif Landscape</title>
-		<style>
-			header {
-				background-color:transparent;
-			}
-		</style>
 	</head>
 	<body>
 		<div class="wrapper">
@@ -42,6 +36,30 @@
 						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="19"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="20"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="21"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="22"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
@@ -53,6 +71,79 @@
 						<div class="carousel-item">
 						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Third slide">
 						</div>
+						<div class="carousel-item">
+						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/4.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/5.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/6.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/7.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/8.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/9.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/10.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/11.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/12.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/13.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/14.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/15.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/16.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
+						</div>
+
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -89,16 +180,41 @@
 						$('img.d-block').css( "height", 756+"px");
 					}
 				});
+				$('.carousel').carousel({
+					interval: 5000,
+					wrap:true
+					})
 
-					var myTouch = util.toucher(document.getElementById('carouselExampleIndicators')); 
-					myTouch.on('swipeLeft',function(e){ 
-					$('.carousel-control-next').click(); 
-					}).on('swipeRight',function(e){ 
-					$('.carousel-control-prev').click(); 
-					}); 
+					// 获取手指在轮播图元素上的一个滑动方向（左右）
+    				// 获取界面上轮播图容器
+					var $carousels = $('.carousel');
+					var startX,endX;
+					// 在滑动的一定范围内，才切换图片
+					var offset = 50;
+					// 注册滑动事件
+					$carousels.on('touchstart',function (e) {
+						// 手指触摸开始时记录一下手指所在的坐标x
+						startX = e.originalEvent.touches[0].clientX;
+
+					});
+					$carousels.on('touchmove',function (e) {
+						// 目的是：记录手指离开屏幕一瞬间的位置 ，用move事件重复赋值
+						endX = e.originalEvent.touches[0].clientX;
+					});
+					$carousels.on('touchend',function (e) {
+						//console.log(endX);
+						//结束触摸一瞬间记录手指最后所在坐标x的位置 endX
+						//比较endX与startX的大小，并获取每次运动的距离，当距离大于一定值时认为是有方向的变化
+						var distance = Math.abs(startX - endX);
+						if (distance > offset){
+							//说明有方向的变化
+							//根据获得的方向 判断是上一张还是下一张出现
+							$(this).carousel(startX >endX ? 'next':'prev');
+						}
+					})
+
+					
 			$(function(){
-
-
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
 					if (nWidth < 1140)
@@ -109,11 +225,8 @@
 					{
 						$('img.d-block').css( "height", 756+"px");
 					}
-						$('.carousel').carousel({
-						interval: 5000,
-						wrap:true,
-						});
-					});
+
+			});
 		</script>
 	</body>
 </html>

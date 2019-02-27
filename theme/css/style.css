@@ -272,6 +272,7 @@ header {
 
 @media (min-width: 1140px) {
     header {
+        padding-bottom: 15px;
         position: fixed;
         max-width: 940px;
         margin-right: auto;
