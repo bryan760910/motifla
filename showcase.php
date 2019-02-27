@@ -260,6 +260,13 @@
 						<div class="pic_vis"><img src="/theme/images/listImg/36_293x200.jpg" /></div>
 						<div class="pic_vis_text"><span class="pic_vis_text2">Xinzhuang Dist</span><span> Project</span></div>
 					</div>
+				</a>
+				
+				<a href="/casefile/59.php">
+					<div>
+						<div class="pic_vis"><img src="/theme/images/listImg/59_293x200.jpg" /></div>
+						<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span><span> Project</span></div>
+					</div>
                 </a>
             </div>
         </div>

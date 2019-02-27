@@ -72,7 +72,12 @@
 		});
 	</script>
 	</head>
+	<style>
+	.col-12{
+		margin-bottom: 50px;
+	}
 
+	</style>
 	<body>
 			<a href="#" id="gotop">
 			</a>
