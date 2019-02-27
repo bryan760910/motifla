@@ -255,17 +255,17 @@
 						<div class="pic_vis_text"><span class="pic_vis_text2">Zhonghe Dist</span><span> Project</span></div>
 					</div>
                 </a>
-				<a href="/casefile/24_Project_A.php">
+				<a href="/casefile/58.php">
 					<div>
-						<div class="pic_vis"><img src="/theme/images/listImg/36_293x200.jpg" /></div>
-						<div class="pic_vis_text"><span class="pic_vis_text2">Xinzhuang Dist</span><span> Project</span></div>
+						<div class="pic_vis"><img src="/theme/images/listImg/58_293x200.jpg" /></div>
+						<div class="pic_vis_text"><span class="pic_vis_text2">新莊青山段</span><span></span></div>
 					</div>
-				</a>
+                </a>
 				
 				<a href="/casefile/59.php">
 					<div>
 						<div class="pic_vis"><img src="/theme/images/listImg/59_293x200.jpg" /></div>
-						<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span><span> Project</span></div>
+						<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span><span></span></div>
 					</div>
                 </a>
             </div>

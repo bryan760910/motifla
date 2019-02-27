@@ -25,27 +25,24 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L203  :</span> 太平聯合辦公園 <br />
-						<span class="left_content_desc_title" style="color:red;">臺中太平聯合辦公園</span> <br />
-						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
-						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />
-                        <span class="left_content_desc_title">Typology :</span> Taipei City, TW <br />
-                        <span class="left_content_desc_title">Status :</span> 2018 proposal <br />
-						<span class="left_content_desc_title">Size  :</span> 3.6 ha <br />
-						<span class="left_content_desc_title">Architect :</span> Studio Base Architects <br /><br />
+						<span class="left_content_desc_title">L203  :</span> 新莊青山段 <br />
+						<span class="left_content_desc_title" style="color:red;">Xinzhuang Project│長群建設</span> <br />
+						<span class="left_content_desc_title">Client :</span> Chang-Qun Construction Co.,LTD <br />
+						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />
+                        <span class="left_content_desc_title">Typology :</span> residence <br />
+                        <span class="left_content_desc_title">Status :</span> 2018 - present <br />
+						<span class="left_content_desc_title">Size  :</span> 0.6 ha <br />
+						<span class="left_content_desc_title">Architect :</span> C.T.CHEN&PARTNERS <br /><br />
 						
-						<span class="left_content_desc_title ch">業主 :</span> 臺中市政府 <br />
-						<span class="left_content_desc_title ch">類型 :</span> 整體規劃 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2018 提案 <br />
-						<span class="left_content_desc_title ch">建築 :</span> 黃明威建築師事務所 <br />
+						<span class="left_content_desc_title ch">業主 :</span> 長群建設股份有限公司 <br />
+						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
+						<span class="left_content_desc_title ch">進度 :</span> 2018 - 執行中 <br />
+						<span class="left_content_desc_title ch">建築 :</span> 陳傳宗建築師事務所  <br />
 
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/59/1.jpg" /></div>
-					<div><img src="/theme/images/59/2.jpg" /></div>
-					<div><img src="/theme/images/59/3.jpg" /></div>
-					<div><img src="/theme/images/59/4.jpg" /></div>
+					<div><img src="/theme/images/58/1.jpg" /></div>
 				</div>
 
 			</div>
