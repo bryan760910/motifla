@@ -45,7 +45,7 @@
 				</div>
 				<div class="right_content">
 					<div><img src="/theme/images/Residential_B/01.jpg" /></div>
-					<div><img src="/theme/images/Residential_B/02.jpg" /></div>
+					<!-- <div><img src="/theme/images/Residential_B/02.jpg" /></div> -->
 					<div><img src="/theme/images/Residential_B/03.jpg" /></div>
 				</div>
 
