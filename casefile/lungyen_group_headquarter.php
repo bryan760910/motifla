@@ -42,14 +42,17 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/1.jpg" /></div>
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2.jpg" /></div>
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/3.jpg" /></div>
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/4.jpg" /></div>
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/5.jpg" /></div>
-					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/6.jpg" /></div>
-                    <div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/7.jpg" /></div>
-                    <div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/8.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_1.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_2.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_3.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_3-2.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_4.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_5.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_6.jpg" /></div>
+                    <div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_7.jpg" /></div>
+                    <div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_8.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_9.jpg" /></div>
+					<div><img style="width:700px;" src="/theme/images/Lungyen_Group_Headquarter/2019_10.jpg" /></div>
 				</div>
 
 			</div>
