@@ -40,25 +40,20 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/L-life/1.jpg" /></div>
-					<div><img src="/theme/images/L-life/02.jpg" /></div>
-					<div><img src="/theme/images/L-life/2.jpg" /></div>
-					<div><img src="/theme/images/L-life/3.jpg" /></div>
-					<div><img src="/theme/images/L-life/4.jpg" /></div>
-					<div><img src="/theme/images/L-life/5.jpg" /></div>
-					<div><img src="/theme/images/L-life/6.jpg" /></div>
-					<div><img src="/theme/images/L-life/7.jpg" /></div>
-					<div><img src="/theme/images/L-life/8.jpg" /></div>
-					<div><img src="/theme/images/L-life/9.jpg" /></div>
-					<div><img src="/theme/images/L-life/10.jpg" /></div>
-					<div><img src="/theme/images/L-life/11.jpg" /></div>
-					<div><img src="/theme/images/L-life/12.jpg" /></div>
-					<div><img src="/theme/images/L-life/13.jpg" /></div>
-					<div><img src="/theme/images/L-life/14.jpg" /></div>
-					<div><img src="/theme/images/L-life/15.jpg" /></div>
-					<div><img src="/theme/images/L-life/16.jpg" /></div>
-					<div><img src="/theme/images/L-life/17.jpg" /></div>
-					<div><img src="/theme/images/L-life/18.jpg" /></div>
+					<div><img src="/theme/images/L-life/2019_1.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_2.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_3.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_4.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_5.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_6-1.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_6-2.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_7.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_8.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_9.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_10.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_11.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_12.jpg"/></div>
+					<div><img src="/theme/images/L-life/2019_13.jpg"/></div>
 				</div>
 
 			</div>
