@@ -26,19 +26,18 @@
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
 						<span class="left_content_desc_title">L203  :</span> 太平聯合辦公園 <br />
-						<span class="left_content_desc_title" style="color:red;">臺中太平聯合辦公園</span> <br />
+						<span class="left_content_desc_title red">臺中太平聯合辦公園</span> <br />
 						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
 						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> Taipei City, TW <br />
                         <span class="left_content_desc_title">Status :</span> 2018 proposal <br />
 						<span class="left_content_desc_title">Size  :</span> 3.6 ha <br />
-						<span class="left_content_desc_title">Architect :</span> Studio Base Architects <br /><br />
-						
+                        <span class="left_content_desc_title">Architect :</span> Studio Base Architects <br /><br />
+                        
 						<span class="left_content_desc_title ch">業主 :</span> 臺中市政府 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 整體規劃 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2018 提案 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 黃明威建築師事務所 <br />
-
 					</p>
 				</div>
 				<div class="right_content">

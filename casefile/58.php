@@ -25,24 +25,25 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L203  :</span> 新莊青山段 <br />
-						<span class="left_content_desc_title" style="color:red;">Xinzhuang Project│長群建設</span> <br />
-						<span class="left_content_desc_title">Client :</span> Chang-Qun Construction Co.,LTD <br />
-						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />
-                        <span class="left_content_desc_title">Typology :</span> residence <br />
-                        <span class="left_content_desc_title">Status :</span> 2018 - present <br />
-						<span class="left_content_desc_title">Size  :</span> 0.6 ha <br />
-						<span class="left_content_desc_title">Architect :</span> C.T.CHEN&PARTNERS <br /><br />
+						<span class="left_content_desc_title">L200  :</span> 烏日第四墓園 <br />
+						<span class="left_content_desc_title red">烏日第四墓園</span> <br />
+						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
+						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />
+                        <span class="left_content_desc_title">Typology :</span> culture ‧ park <br />
+                        <span class="left_content_desc_title">Status :</span> 2018 proposal <br />
+						<span class="left_content_desc_title">Size  :</span> 1.9 ha <br /><br />
 						
-						<span class="left_content_desc_title ch">業主 :</span> 長群建設股份有限公司 <br />
-						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2018 - 執行中 <br />
-						<span class="left_content_desc_title ch">建築 :</span> 陳傳宗建築師事務所  <br />
+						<span class="left_content_desc_title ch">業主 :</span> 臺中市政府 <br />
+						<span class="left_content_desc_title ch">類型 :</span> 墓園公園化 <br />
+						<span class="left_content_desc_title ch">進度 :</span> 2018 提案 <br />
 
 					</p>
 				</div>
 				<div class="right_content">
 					<div><img src="/theme/images/58/1.jpg" /></div>
+					<div><img src="/theme/images/58/2.jpg" /></div>
+					<div><img src="/theme/images/58/3.jpg" /></div>
+					<div><img src="/theme/images/58/4.jpg" /></div>
 				</div>
 
 			</div>

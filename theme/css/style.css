@@ -437,6 +437,10 @@ header>p {
     font-weight: bold;
 }
 
+.wrapper .detail_page .left_content_desc .red {
+    color: red;
+}
+
 .wrapper .detail_page .right_content>p,
 .wrapper .detail_page .right_content>div {
     margin: 24px 0 24px 0;

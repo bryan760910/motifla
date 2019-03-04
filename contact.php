@@ -39,7 +39,7 @@
                 <div class="leftside f_left">
                     <ul>
 						<li>
-							台北總部 Taipei Motif<br/>
+							臺北總部 Motif Taipei<br/>
 							10855 台北市萬華區西園路一段278號4樓<br/>
 							4F., No.278, Sec. 1, Xiyuan Rd., Wanhua Dist.,<br/>
 							Taipei City 108, Taiwan (R.O.C.)<br/>
@@ -47,10 +47,6 @@
 							E-mail : motiflandscape@gmail.com<br/>
 							TEL : 02-23086005<br/>
 							FAX : 02-23067369<br/>
-						</li>
-						<li>
-							中國 上海 (才馥工程顧問有限公司)<br/>
-							上海市201615松江區九亭鎮沪松公路1648號1樓<br/>
 						</li>
 						<li>
 							英國 倫敦 London O/I Studio<br/>
