@@ -51,7 +51,8 @@
 						<span class="left_content_desc_title ch">進度 :</span> 2014 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 黃明威建築師事務所 <br />
 						<span class="left_content_desc_title ch" style="margin-left:36px;"></span>王銘顯建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎 competition winner <br />
+						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎<br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 					</p>
 				</div>
 				<div class="right_content">

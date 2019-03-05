@@ -49,7 +49,8 @@
 						<span class="left_content_desc_title ch">類型 :</span> 歷史文化園區 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2016 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 陳智宏建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎 competition winner <br />
+						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎<br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 					</p>
 				</div>
 				<div class="right_content">

@@ -49,8 +49,8 @@
 						<span class="left_content_desc_title ch">類型 :</span> 公園 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2018 - 執行中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 欣樺工程有限公司 <br />
-						<span class="left_content_desc_title ch">建築 :</span> 2018 競圖首獎 <br />
-						<span class="left_content_desc_title ch" style="margin-left:36px;"></span> competition winner <br />
+						<span class="left_content_desc_title ch">重要獎項 :</span> 2018 競圖首獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 					</p>
 				</div>
 				<div class="right_content">
