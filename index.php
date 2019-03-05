@@ -163,9 +163,9 @@
 					var nHeight = $(window).height();//取得使用者螢幕寬
 					if (nWidth < 1140)
 					{
-						$('img.d-block').css( "height", nHeight+"px");
+						$('img.d-block').css( "height", nHeight-86+"px");
 					}
-					else if(nWidth > 1140)
+					else if(nWidth >= 1140)
 					{
 						$('img.d-block').css( "height", 500+"px");
 					}
@@ -209,9 +209,9 @@
 					var nHeight = $(window).height();//取得使用者螢幕寬
 					if (nWidth < 1140)
 					{
-						$('img.d-block').css( "height", nHeight+"px");
+						$('img.d-block').css( "height", nHeight-86+"px");
 					}
-					else if(nWidth > 1140)
+					else if(nWidth >= 1140)
 					{
 						$('img.d-block').css( "height", 500+"px");
 					}
