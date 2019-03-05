@@ -63,85 +63,85 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
-						<img style="height:756px" class="d-block w-100" src="https://static1.squarespace.com/static/51819b9fe4b03000ce6f03ea/59f10dd59f8dced90e4fa72f/5b3d1f27575d1fd7a474eb5d/1548846929480/R_Hjortshoj+-+Streetmekka+Vib+WEB-233.jpg" alt="First slide">
+						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/2.jpg" alt="Second slide">
+						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Third slide">
+						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/4.jpg" alt="First slide">
+						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/4.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/5.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/5.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/6.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/6.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/7.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/7.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/8.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/8.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/9.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/9.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/10.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/10.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/11.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/11.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/12.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/12.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/13.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/13.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/14.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/14.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/15.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/15.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/16.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/16.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:756px" class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
 						</div>
 
 					</div>
@@ -158,16 +158,6 @@
 			<?php include 'footer.php' ?>
 		</div>
 		<script type="text/javascript">
-					var nWidth = $(window).width();//取得使用者螢幕寬
-					var nHeight = $(window).height();//取得使用者螢幕寬
-					if (nWidth < 1140)
-					{
-						$('img.d-block').css( "height", nHeight+"px");
-					}
-					else if(nWidth > 1140)
-					{
-						$('img.d-block').css( "height", 756+"px");
-					}
 				$(window).resize(function() {
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
@@ -177,7 +167,7 @@
 					}
 					else if(nWidth > 1140)
 					{
-						$('img.d-block').css( "height", 756+"px");
+						$('img.d-block').css( "height", 500+"px");
 					}
 				});
 				$('.carousel').carousel({
@@ -223,7 +213,7 @@
 					}
 					else if(nWidth > 1140)
 					{
-						$('img.d-block').css( "height", 756+"px");
+						$('img.d-block').css( "height", 500+"px");
 					}
 
 			});

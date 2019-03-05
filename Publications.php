@@ -78,7 +78,7 @@
                         </p>
                         <br/>  
 
-                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2015  中國時報 /人物專訪 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
+                        <p><a href="">2015  中國時報 /人物專訪 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
                         </p>
                         <br/>  
 
@@ -95,7 +95,6 @@
                         <br/> 
 
                         <p>2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </p>
-                        <p><a href="http://www.xuexue.tw/pkn/even.html">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsphttp://www.xuexue.tw/pkn/even.html</a></p>
                         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </p> <br />  
 
                         <p>2018  天下雜誌 / 台中花博專訪 659期 </p>
