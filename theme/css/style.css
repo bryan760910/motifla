@@ -421,6 +421,7 @@ header>p {
     width: 230px;
     float: left;
     height: auto;
+    margin-bottom: 30px;
 }
 
 .wrapper .detail_page .right_content {
