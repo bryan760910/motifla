@@ -69,6 +69,29 @@
         <div class="wrapper">
             <?php include 'header.php' ?>
             <div class="showcase_page content clearfix inner_wrapper">
+
+				<!-- second menu -->
+				<div class="showcase_second_menu clearfix">
+					<ul>
+						<li><a href="javascript:;">all</a></li>
+						<li><a href="javascript:;">residence</a></li>
+						<li><a href="javascript:;">culture</a></li>
+						<li><a href="javascript:;">park</a></li>
+						<li><a href="javascript:;">garden</a></li>
+						<li><a href="javascript:;">education</a></li>
+						<li><a href="javascript:;">healthcare</a></li>
+						<li><a href="javascript:;">museum</a></li>
+						<li><a href="javascript:;">sport</a></li>
+						<li><a href="javascript:;">headquarter</a></li>
+						<li><a href="javascript:;">social housing</a></li>
+						<li><a href="javascript:;">master plan</a></li>
+						<li><a href="javascript:;">land art & curation</a></li>
+						<li><a href="javascript:;">london</a></li>
+					</ul>
+				</div>
+
+				<!-- list -->
+
 				<a href="/casefile/30.php">
 					<div>
 						<div class="pic_vis"><img src="/theme/images/listImg/30_293x200.jpg" /></div>

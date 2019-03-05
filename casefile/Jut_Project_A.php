@@ -46,13 +46,13 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/Jut_Project_A/1.jpg" /></div>
+					<!-- <div><img src="/theme/images/Jut_Project_A/1.jpg" /></div> -->
 					<div><img src="/theme/images/Jut_Project_A/2.jpg" /></div>
-					<div><img src="/theme/images/Jut_Project_A/3.png" /></div>
+					<!-- <div><img src="/theme/images/Jut_Project_A/3.png" /></div> -->
 					<div><img src="/theme/images/Jut_Project_A/4.jpg" /></div>
 					<div><img src="/theme/images/Jut_Project_A/5.jpg" /></div>
 					<div><img src="/theme/images/Jut_Project_A/6.jpg" /></div>
-					<div><img src="/theme/images/Jut_Project_A/7.jpg" /></div>
+					<!-- <div><img src="/theme/images/Jut_Project_A/7.jpg" /></div> -->
 
 				</div>
 

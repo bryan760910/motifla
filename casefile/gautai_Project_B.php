@@ -43,10 +43,10 @@
 				</div>
 				<div class="right_content">
 					<div><img src="/theme/images/Gautai_Project B/1.jpg" /></div>
-					<div><img src="/theme/images/Gautai_Project B/2.jpg" /></div>
+					<!-- <div><img src="/theme/images/Gautai_Project B/2.jpg" /></div>
 					<div><img src="/theme/images/Gautai_Project B/3.jpg" /></div>
 					<div><img src="/theme/images/Gautai_Project B/4.jpg" /></div>
-					<div><img src="/theme/images/Gautai_Project B/5.jpg" /></div>
+					<div><img src="/theme/images/Gautai_Project B/5.jpg" /></div> -->
 				</div>
 			</div>
 		</div>
