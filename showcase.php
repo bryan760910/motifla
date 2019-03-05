@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<meta name="description" content="太研規劃設計顧問有限公司是專業的景觀規劃設計顧問公司,以Landscape Urbanism 的概念,反思傳統都市設計操作,探討未來都市紋理與都市景觀及其附加購件之演變消長,並試圖找出未來城市景觀發展的契機及可能。 公司總監吳書原畢業於英國倫敦AA建築聯盟學院,以在英國倫敦多年的工作經驗,豐富的國際背景為業主提供新的觀點及動力, 並具有能夠與國際團隊合作、溝通與協調之能力。">
@@ -11,12 +11,18 @@
 		<meta name="HandheldFriendly" content="true" />
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
+		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
+		<link rel="icon" type="image/png" href="/theme/images/metered-manual.png">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="theme/css/style.css" />
-        <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-        <script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
-        <link rel="stylesheet" type="text/css" href="/theme/js/plugin/jquery.bxslider/jquery.bxslider.css">
-        <title>太研規劃設計顧問有限公司</title>
+		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+		<!-- TODO: 連結Bootstrap所需要的js -->
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+		<title>│  Motif Landscape</title>
         <script>
             $(document).ready(function() {
                 $(".pic_vis").hover(function() {
