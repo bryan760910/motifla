@@ -244,7 +244,7 @@ h3 {
 /*=======================*/
 
 .wrapper {
-    margin-top: "";
+    margin-top: 86px;
 }
 
 @media (min-width: 1140px) {
@@ -418,9 +418,10 @@ header>p {
 /*===========================*/
 
 .wrapper .detail_page .left_content {
-    width: 170px;
+    width: 230px;
     float: left;
     height: auto;
+    margin-bottom: 30px;
 }
 
 .wrapper .detail_page .right_content {
@@ -451,7 +452,7 @@ header>p {
     margin: 0 0 12px 0;
 }
 
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 1140px) {
     .wrapper .detail_page .right_content {
         width: 100%;
         height: 100%;
@@ -464,6 +465,11 @@ header>p {
         width: 100%;
         height: auto;
         float: "";
+    }
+    .wrapper .detail_page .left_content {
+        width: 360px;
+        float: left;
+        height: auto;
     }
 }
 
