@@ -448,6 +448,7 @@ header>p {
 
 .wrapper .detail_page .left_content_desc .red {
     color: red;
+    display: block;
 }
 
 .wrapper .detail_page .right_content>p,
@@ -749,15 +750,19 @@ header>p {
     margin: 0px 0 0px 0;
 }
 
+.wrapper .publications_page .right_content>p>a:hover {
+    color: #881B20;
+}
+
 .wrapper .publications_page .right_content>p>a {
     text-decoration: none;
     color: black;
     display: block;
 }
 
-.wrapper .publications_page .right_content>p:first-child {
+/*.wrapper .publications_page .right_content>p:first-child {
     margin-top: 0;
-}
+}*/
 
 .wrapper .publications_page .right_content>h3+p:first-child {
     margin: 0px 0 0px 0;

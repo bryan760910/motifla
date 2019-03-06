@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L109  :</span> 璞元誠寬芝蘭段 <br />
 						<span class="left_content_desc_title red">Zhilan Project│芝蘭段 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Sorgsam Construction CO., LTD. <br />
 						<span class="left_content_desc_title" style="margin-left:46px;"></span> Pauian Archiland <br />
