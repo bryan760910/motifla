@@ -70,59 +70,59 @@
                 </div>
                 <div class="rightside clearfix">
                     <div class="right_content f_right">
-                        <p><a href="/news/20140720.php">2014  臺灣建築學會會刊雜誌 / 75期 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp吹鯨之浪 ─ 英倫景觀都市主義教育新浪潮 </a>
+                        <p><a href="/news/20140720.php">2014  臺灣建築學會會刊雜誌 / 75期 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp吹鯨之浪 ─ 英倫景觀都市主義教育新浪潮 </a>
                         </p>
                         <br/>  
 
-                        <p><a href="/news/20141218.php">2014  東海大學教學卓越計畫 / 學務處期刊 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
+                        <p><a href="/news/20141218.php">2014  東海大學教學卓越計畫 / 學務處期刊 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
                         </p>
                         <br/>  
 
-                        <p><a href="">2015  中國時報 /人物專訪 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
+                        <p><a href="">2015  中國時報 /人物專訪 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp從國外設計教育，我們可以學習的思維 </a>
                         </p>
                         <br/>  
 
-                        <p><a href="http://www.ta-mag.net/ta/News.php?id=938">2016  臺灣建築TA雜誌 / Vol.250 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </a>
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=938">2016  臺灣建築TA雜誌 / Vol.250 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </a>
                         </p>
                         <br/>
 
-                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2016  欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3</a>
+                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2016  欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3</a>
                         </p>
                         <br/>
 
-                        <p><a href="http://www.ta-mag.net/ta/News.php?id=1126">2017  臺灣建築TA雜誌 / Vol.256</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </a>
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=1126">2017  臺灣建築TA雜誌 / Vol.256</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </a>
                         </p>
                         <br/> 
 
                         <p>2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </p> <br />  
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </p> <br />  
 
                         <p>2018  天下雜誌 / 台中花博專訪 659期 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp不一樣的花博，以生態讓世界驚艷 </p> <br />  
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp不一樣的花博，以生態讓世界驚艷 </p> <br />  
 			
 						<p>2018  天下雜誌 / 花博專書，林保寶著 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花開的聲音 - 當臺中遇見花博 2018 臺中世界花卉博覽會 </p> <br />  
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花開的聲音 - 當臺中遇見花博 2018 臺中世界花卉博覽會 </p> <br />  
 
                         <p>2018 臺灣建築TA雜誌 / Vol. 278 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會｜臺中市城市再造 </p> <br />  
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會｜臺中市城市再造 </p> <br />  
 
                         <p>2018  TADA 臺中市建築經營協會 / Vol.3 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會 - 策展專訪 </p> <br />
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會 - 策展專訪 </p> <br />
                         
                         <p>2018  鏡週刊 / NO.112 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp花博秘境 ─ 臺灣野草地圖，日夜都太美 </p> <br />  
+                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp花博秘境 ─ 臺灣野草地圖，日夜都太美 </p> <br />  
 
                         <p>2018 臺南設計週盛宴 - 城市設計論壇</p><br />  
 
-                        <p><a href="https://solomo.xinmedia.com/archi/158746-motifla">2019 欣傳媒 Xin Media  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </a>
+                        <p><a href="https://solomo.xinmedia.com/archi/158746-motifla">2019 欣傳媒 Xin Media  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </a>
                         </p>
                         <br/>
 
-                        <p><a href="https://solomo.xinmedia.com/archi/160512-Motif">2019 欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </a>
+                        <p><a href="https://solomo.xinmedia.com/archi/160512-Motif">2019 欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </a>
                         </p>
                         <br/>
                         
-                        <p><a href="https://www.fundesign.tv/landscape/?fbclid=IwAR3bAZr9AKJDEBNPbYRCqX8Z3U2b1ens6fQVLzhRZjM3yuh04V0DizsrKIg">2019 瘋設計 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </a>
+                        <p><a href="https://www.fundesign.tv/landscape/?fbclid=IwAR3bAZr9AKJDEBNPbYRCqX8Z3U2b1ens6fQVLzhRZjM3yuh04V0DizsrKIg">2019 瘋設計 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </a>
                         </p>
                         <br/> 
                     </div>
