@@ -22,7 +22,7 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-		<title>│  Motif Landscape</title>
+		<title>│  太研規劃設計顧問有限公司</title>
 		<script type="text/javascript">
 		$(function () {
 
@@ -84,6 +84,13 @@
 		<div class="wrapper">
 			<?php include 'header.php' ?>
 			<div class="profile_page clearfix inner_wrapper">
+				<div class="member_second_menu clearfix">
+						<ul>
+						<li><a href="javascript:;" style="color:#333;">profile</a></li>
+						<li><a href="javascript:;">people</a></li>
+						<li><a href="javascript:;">emplyment</a></li>
+						</ul>
+				</div>
 				<div class="rightside">
                     <div class="right_content f_right">
 						<img class ="right_content" src="/theme/images/concept.jpg" />
@@ -98,9 +105,16 @@
                 </div>
             </div>
 			<div class="member_page clearfix inner_wrapper" id="member-table">
+				<div class="member_second_menu clearfix">
+						<ul>
+						<li><a href="javascript:;">profile</a></li>
+						<li><a href="javascript:;" style="color:#333;">people</a></li>
+						<li><a href="javascript:;">emplyment</a></li>
+						</ul>
+				</div>
 				<div class="right_content">
 					<table class="display_box" id="member_list">
-					<tbody>
+						<tbody>
 							<tr>
 								<td data-id="director__01">
 									<img src="/theme/images/member/director__01.jpg" width="98" height="98" />
@@ -259,7 +273,14 @@
 			<div class="row inner_wrapper" id="member-list">
             <!-- 電腦版每塊佔3/12, 平板電腦版每塊佔6/12, 手機版每塊佔12/12 -->
 				<div class="col-12">
-					<div>
+					<div class="member_second_menu clearfix">
+							<ul>
+							<li><a href="javascript:;">profile</a></li>
+							<li><a href="javascript:;" style="color:#333;">people</a></li>
+							<li><a href="javascript:;">emplyment</a></li>
+							</ul>
+					</div>
+					<div style="margin-bottom:40px;">
 						<img class="card-img-top" src="/theme/images/member/director__01.jpg" alt="">
 						<p class="name">吳書原 Shu Yuan Wu</p>
 						<p class="desc">1998 &nbsp;東海大學 景觀學士</p>
@@ -283,80 +304,51 @@
 						<p class="desc">EDCO Design London ,UK</p>
 						<p class="desc">MOTIF Director 2012 until now</p>
 					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/director__02.jpg" alt="">
-						<p class="name">森田愛 Morita Ai</p>
-						<p class="desc">日本籍的室內設計師，留學於德國與英國。畢業于日本學習院大學Gakushuin University 英米文學科。精通德文、英文、日文及中文，擅長溝通協調及業務整合。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__01.jpg" alt="">
-						<p class="name">耿寧 Slow Geng</p>
-						<p class="desc">畢業於中原大學景觀學系，現為 Motif 專案經理，在景觀業界有多年實務經驗，擅長都市規劃設計、都市設計、電腦繪圖。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__02.jpg" alt="">
-						<p class="name">林弘雯 Maggie Lin</p>
-						<p class="desc">畢業於文化大學景觀學系，現為 Motif 設計總監，之前為老圃造園工程資深專案經理及沐庭設計工作室主持人，於業界有20年以上專業資歷。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__03.jpg" alt="">
-						<p class="name">陳怡潔 Eleanor Chen</p>
-						<p class="desc">畢業於中原大學景觀學系，現為 Motif 專案經理，在景觀業界有多年實務經驗，擅長都市規劃設計、3D電腦運算、電腦繪圖。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__04.jpg" alt="">
-						<p class="name">鄭凱元 Kai Yuan, Cheng</p>
-						<p class="desc">畢業於中原大學景觀學系， 現為 Motif 設計師，擅長景觀設計、都市規劃設計、空間模擬、電腦繪圖。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__05.jpg" alt="">
-						<p class="name">吳怡諳 Ann Wu</p>
-						<p class="desc">中華大學景觀建築學系畢業，現為 Motif 工務經理，有豐富的專業經歷，擅長施工圖說、預算編列等實務操作。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__06.jpg" alt="">
-						<p class="name">王珮軒 Labi Wang</p>
-						<p class="desc">畢業於中原大學景觀學系，現為 Motif 專案經理，在景觀業界有多年實務經驗，擅長景觀設計、電腦繪圖、業務整合。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__07.jpg" alt="">
-						<p class="name">何品儀 Pin Ho</p>
-						<p class="desc">畢業於中原大學景觀學系，現為 Motif 專案經理，在景觀業界有多年實務經驗，擅長都市規劃設計、3D電腦運算、電腦繪圖。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__08.jpg" alt="">
-						<p class="name">林巧妮 Chiao Ni, Lin</p>
-						<p class="desc">畢業於勤益科技大學景觀學系， 現為 Motif 設計師，擅長景觀設計、3D電腦運算、電腦繪圖。</p>
-					</div>
-				</div>
-				<div class="col-12">
-					<div>
-						<img class="card-img-top" src="/theme/images/member/team__09.jpg" alt="">
-						<p class="name">洪若庭 Hachi, Hung</p>
-						<p class="desc">畢業於臺灣藝術大學廣播電視學系，現為 Motif 執行秘書，擅長溝通協調及行政業務整合。</p>
-					</div>
+					<ul>
+						<li>
+							<ol class="tr">
+								<li><img src="/theme/images/member/director__01.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="/theme/images/member/director__02.jpg" width="100%" height="100%" /></li>
+								<li></li>
+							</ol>
+							<ol class="tr">
+								<li></li>
+								<li><img src="/theme/images/member/team__01.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="/theme/images/member/team__02.jpg" width="100%" height="100%" /></li>
+							</ol>
+							<ol class="tr">
+								<li><img src="/theme/images/member/team__03.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="/theme/images/member/team__04.jpg" width="100%" height="100%" /></li>
+								<li><img src="/theme/images/member/team__05.jpg" width="100%" height="100%" /></li>
+							</ol>
+							<ol class="tr">
+								<li></li>
+								<li><img src="/theme/images/member/team__06.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li></li>
+							</ol>
+							<ol class="tr">
+								<li><img src="/theme/images/member/team__07.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="/theme/images/member/team__08.jpg" width="100%" height="100%" /></li>
+								<li><img src="/theme/images/member/team__09.jpg" width="100%" height="100%" /></li>
+							</ol>
+						</li>
+					</ul>
 				</div>
 			</div>
 				
 			<div class="member_page clearfix inner_wrapper">
+				<div class="member_second_menu clearfix">
+						<ul>
+						<li><a href="javascript:;">profile</a></li>
+						<li><a href="javascript:;">people</a></li>
+						<li><a href="javascript:;" style="color:#333;">emplyment</a></li>
+						</ul>
+				</div>
 				<div class="right_content">
 					<img class="right_content"src="/theme/images/emplyment.jpg"/>
 				</div>

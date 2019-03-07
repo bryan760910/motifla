@@ -26,15 +26,15 @@
 			crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 			crossorigin="anonymous"></script>
-		<title>│  Motif Landscape</title>
+		<title>│  太研規劃設計顧問有限公司</title>
     </head>
     <body>
         <div class="wrapper">
             <?php include 'header.php' ?>
             <div class="contact_page clearfix inner_wrapper">
-                <div class="rightside f_right">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.0060485288054!2d121.49928919999998!3d25.0338688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9aef84c8c3d%3A0x6e2df2fe594d715f!2sNo.+278%2C+Section+1%2C+Xiyuan+Rd%2C+Wanhua+District%2C+Taipei+City%2C+Taiwan+108!5e0!3m2!1sen!2s!4v1431884207984"
-                    width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+                <div class="rightside f_right" style="-webkit-filter: grayscale(100%);filter: grayscale(100%);">
+						<iframe src="https://www.google.com/maps/embed?key=YOUR_API_KEY&pb=!1m18!1m12!1m3!1d3615.0060485288054!2d121.49928919999998!3d25.0338688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9aef84c8c3d%3A0x6e2df2fe594d715f!2sNo.+278%2C+Section+1%2C+Xiyuan+Rd%2C+Wanhua+District%2C+Taipei+City%2C+Taiwan+108!5e0!3m2!1sen!2s!4v1431884207984"
+						width="100%" height="100%" frameborder="0" style="border:0"></iframe>
                 </div>
                 <div class="leftside f_left">
                     <ul>

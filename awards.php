@@ -22,7 +22,7 @@
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-		<title>│  Motif Landscape</title>
+		<title>│  太研規劃設計顧問有限公司</title>
 		<script type="text/javascript">
 		$(function () {
 
@@ -70,25 +70,31 @@
                 </div>
                 <div class="rightside clearfix">
                     <div class="right_content f_right">
+                        <div class="member_second_menu clearfix">
+                            <ul>
+                            <li><a href="javascript:;" style="color:#333;">award</a></li>
+                            <li><a href="javascript:;">competition</a></li>
+                            </ul>
+                        </div>
 						<p>
                         2004 London Housing Award <br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國新住宅設計大獎 Melody Lane, London N5</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國新住宅設計大獎 Melody Lane, London N5</p><br /> 
 						
 						<p>
                         2005 Street Design Award<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國街道空間設計大獎 Old baily open space design</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國街道空間設計大獎 Old baily open space design</p><br /> 
 						
 						<p>
                         2008 Leicester Square Redesign International Competition Winner<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國萊斯特廣場國際競圖第一名 Leicester Square Redesign</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國萊斯特廣場國際競圖第一名 Leicester Square Redesign</p><br /> 
 						
 						<p>
                         2009 Triton Square Civic Trust Award Winner<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國公民信託協會特別獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRegents Place - Triton Square</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國公民信託協會特別獎<br />
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRegents Place - Triton Square</p><br /> 
 						
 						<p>2010 Aldgate Place Park Highly commended, LI<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國皇家景觀建築師協會高度推薦獎</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國皇家景觀建築師協會高度推薦獎</p><br /> 
 
                         <p>2015 臺南I-Life高層集合住宅建築景觀園冶獎</p><br /> 
 
@@ -96,13 +102,13 @@
 
                         <p>
                         2018 陽明山美軍俱樂部，倫敦設計獎國際景觀類金獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLondon Design Awards Gold Winner</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLondon Design Awards Gold Winner</p><br /> 
                         <p>
                         2018 陽明山美軍俱樂部，金點設計獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspGoldenpin Design Awards Winner</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspGoldenpin Design Awards Winner</p><br /> 
                         <p>
                         2018 陽明山美軍俱樂部，歐洲景觀設計獎入圍<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLandezine International Landscape Award</p><br /> 
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLandezine International Landscape Award</p><br /> 
 
                         <p>2018 陽明山美軍俱樂部，臺灣建築獎入圍</p><br /> 
 
@@ -116,6 +122,12 @@
                         <br />
                         <br />
                         <br />
+                        <div class="member_second_menu clearfix">
+                            <ul>
+                            <li><a href="javascript:;">award</a></li>
+                            <li><a href="javascript:;" style="color:#333;">competition</a></li>
+                            </ul>
+				        </div>
                         <p>2014</p>
                         <p>臺北市立美術館 X-Site 競圖 入圍</p>
                         <p>嘉義市市立美術館設計監造競圖首獎 首獎</p>
