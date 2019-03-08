@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L161  :</span> 大尺淡水建案 <br />
 						<span class="left_content_desc_title red">Tamsui Project│麗源建設  </span> <br />
 						<span class="left_content_desc_title">Client :</span> Lih-Yuan Construction Company <br />
 						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />

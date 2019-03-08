@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L187  :</span> 霧峰園區 <br />
 						<span class="left_content_desc_title red">Wufeng District│霧峰園區整體規劃</span><br />
 						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
 						<span class="left_content_desc_title">Location :</span> Wufeng District, Taichung City, TW <br />

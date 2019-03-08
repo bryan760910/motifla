@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L184  :</span> 國泰央二 <br />
 						<span class="left_content_desc_title red">Xindian Project│國泰建設</span> <br />
 						<span class="left_content_desc_title">Client :</span> Cathay Real Estate Development Co., Ltd. <br />
 						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />

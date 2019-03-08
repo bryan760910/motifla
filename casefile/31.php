@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L119  :</span> 創健建設月亮公園 <br />
 						<span class="left_content_desc_title red">創健建設月亮公園 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Chwang Jan Building <br />
 						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />

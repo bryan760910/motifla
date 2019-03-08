@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L111  :</span> 臺南左鎮菜寮化石文化園區二期 <br />
 						<span class="left_content_desc_title red">Tsai-liao Fossil Museum│菜寮化石館</span><br />
 						<span class="left_content_desc_title">Client :</span> Tainan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Tainan City, TW <br />

@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L156  :</span> 隆田考古 <br />
 						<span class="left_content_desc_title red">Longtian Cultural Park│隆田考古園區</span><br />
 						<span class="left_content_desc_title">Client :</span> Tainan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Tainan City, TW <br />

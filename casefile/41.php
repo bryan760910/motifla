@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L202  :</span> 新莊青山段 <br />
 						<span class="left_content_desc_title red">Xinzhuang Project│長群建設</span> <br />
 						<span class="left_content_desc_title">Client :</span> Chang-Qun Construction Co.,LTD <br />
 						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />

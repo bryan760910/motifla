@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L160  :</span> 遠揚 T-Park C <br />
 						<span class="left_content_desc_title red">T-Park Landscape Design│遠揚建設 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Far Eastern Construction Company <br />
 						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />

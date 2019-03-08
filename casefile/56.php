@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L134  :</span> 臺中同榮段社會住宅 <br />
 						<span class="left_content_desc_title red">Tong-Rong Sec. Social Housing│同榮段公共住宅</span><br />
 						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
 						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />

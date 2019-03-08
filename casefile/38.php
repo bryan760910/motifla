@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L179  :</span> 鑫怡新店央北 <br />
 						<span class="left_content_desc_title red">Xindian Project│鑫怡建設 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Shin-Yi Construction Inc. <br />
 						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />

@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L201  :</span> 中研院沙崙二期 <br />
 						<span class="left_content_desc_title red">中研院南部院區</span><br />
 						<span class="left_content_desc_title">Client :</span> Academia Sinica <br />
 						<span class="left_content_desc_title">Location :</span> Tainan City, TW <br />

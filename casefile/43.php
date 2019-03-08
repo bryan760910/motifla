@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L053  :</span> 嘉義美術館 <br />
 						<span class="left_content_desc_title red">Chiayi Fine Arts Museum│嘉義美術館</span><br />
 						<span class="left_content_desc_title">Client :</span> Chiayi City Government <br />
 						<span class="left_content_desc_title">Location :</span> Chiayi City, TW <br />

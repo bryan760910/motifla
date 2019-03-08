@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L112  :</span> 桃園大園橫山書道館 <br />
 						<span class="left_content_desc_title red">Hengshan Calligraphy Park│橫山書法公園</span><br />
 						<span class="left_content_desc_title">Client :</span> Taoyuan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Taoyuan City, TW <br />

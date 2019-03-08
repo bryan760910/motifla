@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L137  :</span> 興隆段公共住宅E <br />
 						<span class="left_content_desc_title red">Xing-long Sec. Social Housing│興隆段公共住宅</span><br />
 						<span class="left_content_desc_title">Client :</span> Taipei City Government <br />
 						<span class="left_content_desc_title">Location :</span> Taipei City, TW <br />

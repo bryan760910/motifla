@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L195  :</span> 順天建設大豐段 <br />
 						<span class="left_content_desc_title red">Dafeng Project│順天建設</span> <br />
 						<span class="left_content_desc_title">Client :</span> Sweeten Inc. <br />
 						<span class="left_content_desc_title">Location :</span> Taichung City, TW <br />

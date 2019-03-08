@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L102  :</span> 水交社文化園區 <br />
 						<span class="left_content_desc_title red">Shuijiaoshe Cultural Park│水交社文化園區</span><br />
 						<span class="left_content_desc_title">Client :</span> Tainan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Tainan City, TW <br />

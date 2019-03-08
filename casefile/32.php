@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L123  :</span> 忠泰大直北安段 <br />
 						<span class="left_content_desc_title red">Beian Project│忠泰建設 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Jut Land Development Group <br />
 						<span class="left_content_desc_title">Location :</span> Taipei City, TW <br />

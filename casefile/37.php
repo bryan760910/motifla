@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L176  :</span> 璞石麗緻 <br />
 						<span class="left_content_desc_title red">Pause Landis│璞石麗緻溫泉會館 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Pause Landis <br />
 						<span class="left_content_desc_title">Location :</span> New Taipei City, TW <br />

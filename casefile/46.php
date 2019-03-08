@@ -36,7 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L120  :</span> 新竹納骨塔 <br />
 						<span class="left_content_desc_title red">DPD Life Memorial Park│大坪頂生命園區</span><br />
 						<span class="left_content_desc_title">Client :</span> Hsinchu City Government <br />
 						<span class="left_content_desc_title">Location :</span> Hsinchu City, TW <br />

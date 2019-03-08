@@ -36,8 +36,6 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title">L174  :</span> 達麗士林陽明段 <br />
-						<span class="left_content_desc_title red">Shilin Project A│達麗建設  </span> <br />
 						<span class="left_content_desc_title">Client :</span> Da-Li Construction Co Ltd <br />
 						<span class="left_content_desc_title">Location :</span> Taipei City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> residence <br />
@@ -55,6 +53,15 @@
 				<div class="right_content">
 					<div><img src="/theme/images/35/1.jpg" /></div>
 					<div><img src="/theme/images/35/2.jpg" /></div>
+				</div>
+
+			</div>
+		</div>
+
+	</body>
+</html>
+
+35/2.jpg" /></div>
 				</div>
 
 			</div>
