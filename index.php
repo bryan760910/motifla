@@ -13,7 +13,7 @@
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
-		<link rel="icon" type="image/png" href="/theme/images/metered-manual.png">
+		<link rel="icon" type="image/png" href="theme/images/metered-manual.png">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">

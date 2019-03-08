@@ -141,7 +141,7 @@
 								</td>
 								<td></td>
 								<td data-id="team__02">
-									<img src="/theme/images/member/team__02.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__02.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
 										<img src="theme/images/member/team__02.jpg" />
 									</div>

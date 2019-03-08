@@ -3,28 +3,28 @@
             <div class="header-container">
                 <div class="header-logo">
                     <a class="motif_logo_img" href="/index.php" style="display:none;">
-                        <img src="/theme/images/logo001.jpg" width='140' height='30' />
+                        <img src="theme/images/logo001.jpg" width='140' height='30' />
                     </a>
                     <a class="motif_logo_img" href="/index.php">
-                        <img src="/theme/images/logo02.jpg" width='140' height='30' />
+                        <img src="theme/images/logo02.jpg" width='140' height='30' />
                     </a>
                 </div>
                 <div class="header-nav">
                     <ul class="header_menu">
                         <li class="header_menu_li">
-                            <a href="/member.php" class="header_menu_item" data-name="ABOUT" data-zhname="關於太研">ABOUT</a>
+                            <a href="member.php" class="header_menu_item" data-name="ABOUT" data-zhname="關於太研">ABOUT</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="/showcase.php" class="header_menu_item" data-name="PROJECTS" data-zhname="案例實績">PROJECTS</a>
+                            <a href="showcase.php" class="header_menu_item" data-name="PROJECTS" data-zhname="案例實績">PROJECTS</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="/Publications.php" class="header_menu_item" data-name="PUBLICATION" data-zhname="作品出版">PUBLICATION</a>
+                            <a href="Publications.php" class="header_menu_item" data-name="PUBLICATION" data-zhname="作品出版">PUBLICATION</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="/awards.php" class="header_menu_item" data-name="AWARDS" data-zhname="獲獎資訊">AWARDS</a>
+                            <a href="awards.php" class="header_menu_item" data-name="AWARDS" data-zhname="獲獎資訊">AWARDS</a>
                         </li>
                         <li class="header_menu_li">
-                            <a href="/contact.php" class="header_menu_item" data-name="CONTACT" data-zhname="聯絡我們">CONTACT</a>
+                            <a href="contact.php" class="header_menu_item" data-name="CONTACT" data-zhname="聯絡我們">CONTACT</a>
                         </li>
                     </ul>
                 </div>
@@ -38,10 +38,10 @@
         <div class="header-container">
                 <div class="header-logo">
                     <a class="motif_logo_img" href="/index.php" style="display:none;">
-                        <img src="/theme/images/logo001.jpg" width='140' height='30' />
+                        <img src="theme/images/logo001.jpg" width='140' height='30' />
                     </a>
                     <a class="motif_logo_img" href="/index.php">
-                        <img src="/theme/images/logo02.jpg" width='140' height='30' />
+                        <img src="theme/images/logo02.jpg" width='140' height='30' />
                     </a>
                 </div>
                 <div class="header-nav">
@@ -52,19 +52,19 @@
             </div>
                 <ul>
                     <li>
-                        <a href="/member.php">ABOUT</a>
+                        <a href="member.php">ABOUT</a>
                     </li>
                     <li>
-                        <a href="/showcase.php">PROJECTS</a>
+                        <a href="showcase.php">PROJECTS</a>
                     </li>
                     <li>
-                        <a href="/Publications.php">PUBLICATION</a>
+                        <a href="Publications.php">PUBLICATION</a>
                     </li>
                     <li>
-                        <a href="/awards.php">AWARDS</a>
+                        <a href="awards.php">AWARDS</a>
                     </li>
                     <li>
-                        <a href="/contact.php">CONTACT</a>
+                        <a href="contact.php">CONTACT</a>
                     </li>
                 </ul>
         </div>
