@@ -82,47 +82,53 @@
                         </p>
                         <br/>  
 
-                        <p><a href="http://www.ta-mag.net/ta/News.php?id=938">2016  臺灣建築TA雜誌 / Vol.250 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </a>
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=938" target="_blank">2016  臺灣建築TA雜誌 / Vol.250 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp年輕建築人─大夢想 </a>
                         </p>
                         <br/>
 
-                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla">2016  欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3</a>
+                        <p><a href="https://solomo.xinmedia.com/archi/112655-motifla" target="_blank">2016  欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp老房子文化運動計畫 - 陽明山美軍俱樂部Brick Yard 33 1/3</a>
                         </p>
                         <br/>
 
-                        <p><a href="http://www.ta-mag.net/ta/News.php?id=1126">2017  臺灣建築TA雜誌 / Vol.256</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </a>
+                        <p><a href="http://www.ta-mag.net/ta/News.php?id=1126" target="_blank">2017  臺灣建築TA雜誌 / Vol.256</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三興公共住宅競圖 & 陽明山美軍俱樂部 </a>
                         </p>
                         <br/> 
 
-                        <p>2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </p> <br />  
-
-                        <p>2018  天下雜誌 / 台中花博專訪 659期 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp不一樣的花博，以生態讓世界驚艷 </p> <br />  
-			
-						<p>2018  天下雜誌 / 花博專書，林保寶著 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花開的聲音 - 當臺中遇見花博 2018 臺中世界花卉博覽會 </p> <br />  
-
-                        <p>2018 臺灣建築TA雜誌 / Vol. 278 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會｜臺中市城市再造 </p> <br />  
-
-                        <p>2018  TADA 臺中市建築經營協會 / Vol.3 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會 - 策展專訪 </p> <br />
-                        
-                        <p>2018  鏡週刊 / NO.112 </p>
-                        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp花博秘境 ─ 臺灣野草地圖，日夜都太美 </p> <br />  
-
-                        <p>2018 臺南設計週盛宴 - 城市設計論壇</p><br />  
-
-                        <p><a href="https://solomo.xinmedia.com/archi/158746-motifla">2019 欣傳媒 Xin Media  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </a>
+                        <p><a href="/news/20190308.php">2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </a>
                         </p>
                         <br/>
 
-                        <p><a href="https://solomo.xinmedia.com/archi/160512-Motif">2019 欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </a>
+                        <p><a href="/news/pdf/2.pdf">2018  天下雜誌 / 台中花博專訪 659期 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp不一樣的花博，以生態讓世界驚艷  </a>
+                        </p>
+                        <br/>
+
+                        <p><a href="/news/pdf/3.pdf">2018  天下雜誌 / 花博專書，林保寶著 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花開的聲音 - 當臺中遇見花博 2018 臺中世界花卉博覽會</a>
+                        </p>
+                        <br/>
+
+                        <p><a href="/news/pdf/4.pdf">2018 臺灣建築TA雜誌 / Vol. 278 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會｜臺中市城市再造 </a>
+                        </p>
+                        <br/>
+
+                        <p><a href="/news/pdf/5.pdf">2018  TADA 臺中市建築經營協會 / Vol.3 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2018臺中世界花卉博覽會 - 策展專訪 </a>
                         </p>
                         <br/>
                         
-                        <p><a href="https://www.fundesign.tv/landscape/?fbclid=IwAR3bAZr9AKJDEBNPbYRCqX8Z3U2b1ens6fQVLzhRZjM3yuh04V0DizsrKIg">2019 瘋設計 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </a>
+                        <p><a href="/news/pdf/6.pdf">2018  鏡週刊 / NO.112 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp花博秘境 ─ 臺灣野草地圖，日夜都太美 </a>
+                        </p>
+                        <br/> 
+
+                        <p><a href="/news/20190308.php">2018 臺南設計週盛宴 - 城市設計論壇</a></p><br />  
+
+                        <p><a href="https://solomo.xinmedia.com/archi/158746-motifla" target="_blank">2019 欣傳媒 Xin Media  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp西區門戶計畫 ─ 三井倉庫歷史建築景觀設計   </a>
+                        </p>
+                        <br/>
+
+                        <p><a href="https://solomo.xinmedia.com/archi/160512-Motif" target="_blank">2019 欣傳媒 Xin Media </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp宏濟神經精神科醫院 </a>
+                        </p>
+                        <br/>
+                        
+                        <p><a href="https://www.fundesign.tv/landscape/?fbclid=IwAR3bAZr9AKJDEBNPbYRCqX8Z3U2b1ens6fQVLzhRZjM3yuh04V0DizsrKIg" target="_blank">2019 瘋設計 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻轉臺灣建築觀念，涵蓋地球科學常識的地景世界 </a>
                         </p>
                         <br/> 
                     </div>
