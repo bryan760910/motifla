@@ -13,7 +13,7 @@
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
-		<link rel="icon" type="image/png" href="/theme/images/metered-manual.png">
+		<link rel="icon" type="image/png" href="theme/images/metered-manual.png">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -93,7 +93,7 @@
 				</div>
 				<div class="rightside">
                     <div class="right_content f_right">
-						<img class ="right_content" src="/theme/images/concept.jpg" />
+						<img class ="right_content" src="theme/images/concept.jpg" />
                     </div>
                 </div>
                 <div class="leftside">
@@ -117,16 +117,16 @@
 						<tbody>
 							<tr>
 								<td data-id="director__01">
-									<img src="/theme/images/member/director__01.jpg" width="98" height="98" />
+									<img src="theme/images/member/director__01.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/director__01.jpg" />
+										<img src="theme/images/member/director__01.jpg" />
 									</div>
 								</td>
 								<td></td>
 								<td data-id="director__02">
-									<img src="/theme/images/member/director__02.jpg" width="98" height="98" />
+									<img src="theme/images/member/director__02.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/director__02.jpg" />
+										<img src="theme/images/member/director__02.jpg" />
 									</div>
 								</td>
 								<td></td>
@@ -134,46 +134,46 @@
 							<tr>
 								<td></td>
 								<td data-id="team__01">
-									<img src="/theme/images/member/team__01.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__01.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__01.jpg" />
+										<img src="theme/images/member/team__01.jpg" />
 									</div>
 								</td>
 								<td></td>
 								<td data-id="team__02">
 									<img src="/theme/images/member/team__02.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__02.jpg" />
+										<img src="theme/images/member/team__02.jpg" />
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td data-id="team__03">
-									<img src="/theme/images/member/team__03.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__03.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__03.jpg" />
+										<img src="theme/images/member/team__03.jpg" />
 									</div>
 								</td>
 								<td></td>
 								<td data-id="team__04">
-									<img src="/theme/images/member/team__04.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__04.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__04.jpg" />
+										<img src="theme/images/member/team__04.jpg" />
 									</div>
 								</td>
 								<td data-id="team__05">
-									<img src="/theme/images/member/team__05.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__05.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__05.jpg" />
+										<img src="theme/images/member/team__05.jpg" />
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td></td>
 								<td data-id="team__06">
-									<img src="/theme/images/member/team__06.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__06.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__06.jpg" />
+										<img src="theme/images/member/team__06.jpg" />
 									</div>
 								</td>
 								<td></td>
@@ -181,22 +181,22 @@
 							</tr>
 							<tr>
 								<td data-id="team__07">
-									<img src="/theme/images/member/team__07.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__07.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__07.jpg" />
+										<img src="theme/images/member/team__07.jpg" />
 									</div>
 								</td>
 								<td></td>
 								<td data-id="team__08">
-									<img src="/theme/images/member/team__08.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__08.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__08.jpg" />
+										<img src="theme/images/member/team__08.jpg" />
 									</div>
 								</td>
 								<td data-id="team__09">
-									<img src="/theme/images/member/team__09.jpg" width="98" height="98" />
+									<img src="theme/images/member/team__09.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="/theme/images/member/team__09.jpg" />
+										<img src="theme/images/member/team__09.jpg" />
 									</div>
 								</td>
 							</tr>
@@ -281,7 +281,7 @@
 							</ul>
 					</div>
 					<div style="margin-bottom:40px;">
-						<img class="card-img-top" src="/theme/images/member/director__01.jpg" alt="">
+						<img class="card-img-top" src="theme/images/member/director__01.jpg" alt="">
 						<p class="name">吳書原 Shu Yuan Wu</p>
 						<p class="desc">1998 &nbsp;東海大學 景觀學士</p>
 						<p class="desc">2004 &nbsp;英國AA建築聯盟學院 景觀碩士</p>
@@ -307,34 +307,34 @@
 					<ul>
 						<li>
 							<ol class="tr">
-								<li><img src="/theme/images/member/director__01.jpg" width="100%" height="100%" /></li>
+								<li><img src="theme/images/member/director__01.jpg" width="100%" height="100%" /></li>
 								<li></li>
-								<li><img src="/theme/images/member/director__02.jpg" width="100%" height="100%" /></li>
-								<li></li>
-							</ol>
-							<ol class="tr">
-								<li></li>
-								<li><img src="/theme/images/member/team__01.jpg" width="100%" height="100%" /></li>
-								<li></li>
-								<li><img src="/theme/images/member/team__02.jpg" width="100%" height="100%" /></li>
-							</ol>
-							<ol class="tr">
-								<li><img src="/theme/images/member/team__03.jpg" width="100%" height="100%" /></li>
-								<li></li>
-								<li><img src="/theme/images/member/team__04.jpg" width="100%" height="100%" /></li>
-								<li><img src="/theme/images/member/team__05.jpg" width="100%" height="100%" /></li>
-							</ol>
-							<ol class="tr">
-								<li></li>
-								<li><img src="/theme/images/member/team__06.jpg" width="100%" height="100%" /></li>
-								<li></li>
+								<li><img src="theme/images/member/director__02.jpg" width="100%" height="100%" /></li>
 								<li></li>
 							</ol>
 							<ol class="tr">
-								<li><img src="/theme/images/member/team__07.jpg" width="100%" height="100%" /></li>
 								<li></li>
-								<li><img src="/theme/images/member/team__08.jpg" width="100%" height="100%" /></li>
-								<li><img src="/theme/images/member/team__09.jpg" width="100%" height="100%" /></li>
+								<li><img src="theme/images/member/team__01.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="theme/images/member/team__02.jpg" width="100%" height="100%" /></li>
+							</ol>
+							<ol class="tr">
+								<li><img src="theme/images/member/team__03.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="theme/images/member/team__04.jpg" width="100%" height="100%" /></li>
+								<li><img src="theme/images/member/team__05.jpg" width="100%" height="100%" /></li>
+							</ol>
+							<ol class="tr">
+								<li></li>
+								<li><img src="theme/images/member/team__06.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li></li>
+							</ol>
+							<ol class="tr">
+								<li><img src="theme/images/member/team__07.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="theme/images/member/team__08.jpg" width="100%" height="100%" /></li>
+								<li><img src="theme/images/member/team__09.jpg" width="100%" height="100%" /></li>
 							</ol>
 						</li>
 					</ul>
@@ -350,7 +350,7 @@
 						</ul>
 				</div>
 				<div class="right_content">
-					<img class="right_content"src="/theme/images/emplyment.jpg"/>
+					<img class="right_content"src="theme/images/emplyment.jpg"/>
 				</div>
 				<div class="left_content">
 					<p class="title">Jobs</p>
