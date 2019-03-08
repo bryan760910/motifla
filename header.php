@@ -2,11 +2,11 @@
         <header>
             <div class="header-container">
                 <div class="header-logo">
-                    <a class="motif_logo_img" href="/index.php" style="display:none;">
-                        <img src="theme/images/logo001.jpg" width='140' height='30' />
+                    <a class="motif_logo_img" href="index.php" style="display:none;">
+                        <img src="/theme/images/logo001.jpg" width='140' height='30' />
                     </a>
-                    <a class="motif_logo_img" href="/index.php">
-                        <img src="theme/images/logo02.jpg" width='140' height='30' />
+                    <a class="motif_logo_img" href="index.php">
+                        <img src="/theme/images/logo02.jpg" width='140' height='30' />
                     </a>
                 </div>
                 <div class="header-nav">
@@ -37,10 +37,10 @@
         <div class="mobile-nav-wrapper">
         <div class="header-container">
                 <div class="header-logo">
-                    <a class="motif_logo_img" href="/index.php" style="display:none;">
+                    <a class="motif_logo_img" href="index.php" style="display:none;">
                         <img src="theme/images/logo001.jpg" width='140' height='30' />
                     </a>
-                    <a class="motif_logo_img" href="/index.php">
+                    <a class="motif_logo_img" href="index.php">
                         <img src="theme/images/logo02.jpg" width='140' height='30' />
                     </a>
                 </div>

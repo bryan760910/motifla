@@ -12,7 +12,7 @@
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
+		<script src="theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
 		<link rel="icon" type="image/png" href="theme/images/metered-manual.png">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
@@ -63,85 +63,85 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
-						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/1.jpg" alt="First slide">
+						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/2.jpg" alt="Second slide">
+						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/3.jpg" alt="Third slide">
+						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/3.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/4.jpg" alt="First slide">
+						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/4.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/5.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/5.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/6.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/6.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/7.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/7.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/8.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/8.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/9.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/9.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/10.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/10.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/11.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/11.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/12.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/12.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/13.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/13.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/14.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/14.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/15.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/15.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/16.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/16.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/17.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/17.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/18.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/18.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/19.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/19.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/20.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/20.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/21.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/21.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/22.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/22.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/23.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/23.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/24.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/24.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/25.jpg" alt="Second slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/25.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/26.jpg" alt="Third slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/26.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="/theme/images/sliderImg/27.jpg" alt="First slide">
+							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/27.jpg" alt="First slide">
 						</div>
 
 					</div>

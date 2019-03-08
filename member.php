@@ -98,9 +98,9 @@
                 </div>
                 <div class="leftside">
 						<p class="title">Motif Planning & Design Consultants</p>
-						<p class="desc">太研規劃設計顧問有限公司是專業的景觀規劃設計顧問公司，以Landscape Urbanism 的概念，反思傳統都市的設計操作，探討未來都市紋理與都市景觀及其附加構件之演變消長，並試圖找出未來景觀發展的契機及可能。</p>
+						<p class="desc" style="text-align: justify;">太研規劃設計顧問有限公司是專業的景觀規劃設計顧問公司，以Landscape Urbanism 的概念，反思傳統都市的設計操作，探討未來都市紋理與都市景觀及其附加構件之演變消長，並試圖找出未來景觀發展的契機及可能。</p>
 						<br>
-						<p class="desc">Motif 主持人 吳書原 畢業於英國AA建築學院，為英國皇家景觀建築師協會副會員(ALI)、目前於文化大學環境設計學院建築系擔任助理教授，在London及Taipei已累積多年跨國之工作資歷，執業尺度包含都市、住宅開放空間及公園之規劃與設計，期許以在倫敦多年之經驗，豐富的國際視野為業主提供新的觀點及動力。</p>
+						<p class="desc" style="text-align: justify;">Motif 主持人 吳書原 畢業於英國AA建築學院，為英國皇家景觀建築師協會副會員(ALI)、目前於文化大學環境設計學院建築系擔任助理教授，在London及Taipei已累積多年跨國之工作資歷，執業尺度包含都市、住宅開放空間及公園之規劃與設計，期許以在倫敦多年之經驗，豐富的國際視野為業主提供新的觀點及動力。</p>
 						<br>
                 </div>
             </div>
@@ -354,13 +354,13 @@
 				</div>
 				<div class="left_content">
 					<p class="title">Jobs</p>
-					<p class="desc">If you are interested in working with us , please e-mail your CV and portfolio, saved as a PDF or via URL</p>
+					<p class="desc" style="text-align: justify;">If you are interested in working with us , please e-mail your CV and portfolio, saved as a PDF or via URL</p>
 					<br>
 					<p class="title">Internships</p>
-					<p class="desc">We are always looking for talented students of landscape architecture, urban planning, architecture and to join our
+					<p class="desc" style="text-align: justify;">We are always looking for talented students of landscape architecture, urban planning, architecture and to join our
 						team.
 					</p>
-					<p>We accept 1 - 2 interns during the summer semester, that run from May through September. We do not accept interns for
+					<p style="text-align: justify;">We accept 1 - 2 interns during the summer semester, that run from May through September. We do not accept interns for
 						semesters less than 1 months. Applications including a CV and portfolio, saved as a PDF or via URL</p>
 				</div>
 			</div>
