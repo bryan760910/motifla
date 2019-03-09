@@ -88,7 +88,7 @@
 						<ul>
 						<li><a href="javascript:;" style="color:#333;">profile</a></li>
 						<li><a href="javascript:;">people</a></li>
-						<li><a href="javascript:;">emplyment</a></li>
+						<li><a href="javascript:;">employment</a></li>
 						</ul>
 				</div>
 				<div class="rightside">
@@ -109,7 +109,7 @@
 						<ul>
 						<li><a href="javascript:;">profile</a></li>
 						<li><a href="javascript:;" style="color:#333;">people</a></li>
-						<li><a href="javascript:;">emplyment</a></li>
+						<li><a href="javascript:;">employment</a></li>
 						</ul>
 				</div>
 				<div class="right_content">
@@ -117,9 +117,9 @@
 						<tbody>
 							<tr>
 								<td data-id="director__01">
-									<img src="theme/images/member/director__01.jpg" width="98" height="98" />
+									<img src="theme/images/member/boss.jpg" width="98" height="98" />
 									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="theme/images/member/director__01.jpg" />
+										<img src="theme/images/member/boss.jpg" />
 									</div>
 								</td>
 								<td></td>
@@ -277,7 +277,7 @@
 							<ul>
 							<li><a href="javascript:;">profile</a></li>
 							<li><a href="javascript:;" style="color:#333;">people</a></li>
-							<li><a href="javascript:;">emplyment</a></li>
+							<li><a href="javascript:;">employment</a></li>
 							</ul>
 					</div>
 					<div style="margin-bottom:40px;">
@@ -346,11 +346,11 @@
 						<ul>
 						<li><a href="javascript:;">profile</a></li>
 						<li><a href="javascript:;">people</a></li>
-						<li><a href="javascript:;" style="color:#333;">emplyment</a></li>
+						<li><a href="javascript:;" style="color:#333;">employment</a></li>
 						</ul>
 				</div>
 				<div class="right_content">
-					<img class="right_content"src="theme/images/emplyment.jpg"/>
+					<img class="right_content"src="theme/images/employment.jpg"/>
 				</div>
 				<div class="left_content">
 					<p class="title">Jobs</p>

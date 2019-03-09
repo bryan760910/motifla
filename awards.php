@@ -68,12 +68,12 @@
                     <p>News</br>2019 「2018臺中花博后里森林區」。第六屆景觀大賞 年度大獎</a>
                     </p><br/>  
                 </div>
-                <div class="rightside clearfix">
+                <div class="rightside clearfix" id="award">
                     <div class="right_content f_right">
                         <div class="member_second_menu clearfix">
                             <ul>
-                            <li><a href="javascript:;" style="color:#333;">award</a></li>
-                            <li><a href="javascript:;">competition</a></li>
+                            <li><a href="#award" style="color:#333;">award</a></li>
+                            <li><a href="#competition">competition</a></li>
                             </ul>
                         </div>
 						<p>
@@ -122,10 +122,10 @@
                         <br />
                         <br />
                         <br />
-                        <div class="member_second_menu clearfix">
+                        <div class="member_second_menu clearfix" id="competition">
                             <ul>
-                            <li><a href="javascript:;">award</a></li>
-                            <li><a href="javascript:;" style="color:#333;">competition</a></li>
+                            <li><a href="#award">award</a></li>
+                            <li><a href="#competition" style="color:#333;">competition</a></li>
                             </ul>
 				        </div>
                         <p>2014</p>
