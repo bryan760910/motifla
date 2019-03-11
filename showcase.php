@@ -25,6 +25,7 @@
 		<title>│  太研規劃設計顧問有限公司</title>
         <script>
             $(document).ready(function() {
+
                 $(".pic_vis").hover(function() {
                     var pic_vis = $(this).siblings().children(".pic_vis_text2").text();
                     $(".pic_vis_text2:contains(" + pic_vis + ")").parent().css("visibility", "visible");
@@ -59,7 +60,16 @@
 					{
 						$('#gotop').fadeOut();
 					}
-				})
+				});
+
+
+
+				// 
+				// $(".abc").on("click", function(){
+				// 	var type = $(this).attr("data-type");
+				// 	var list = $(".list > a").hasClass(type).css("display", "inline-block")
+				// })
+				
             });
         </script>
     </head>
@@ -73,11 +83,11 @@
 				<!-- second menu -->
 				<div class="showcase_second_menu clearfix">
 					<ul>
-						<li><a href="javascript:;">all</a></li>
-						<li><a href="javascript:;">residence</a></li>
-						<li><a href="javascript:;">culture</a></li>
-						<li><a href="javascript:;">park</a></li>
-						<li><a href="javascript:;">garden</a></li>
+						<li><a class="abc" href="javascript:;">all</a></li>
+						<li><a class="abc" href="javascript:;" data-type="residence">residence</a></li>
+						<li><a class="abc" href="javascript:;" data-type="culture">culture</a></li>
+						<li><a href="javascript:;" data-type="park">park</a></li>
+						<li><a href="javascript:;" data-type="garden">garden</a></li>
 						<li><a href="javascript:;">education</a></li>
 						<li><a href="javascript:;">healthcare</a></li>
 						<li><a href="javascript:;">museum</a></li>
@@ -91,20 +101,20 @@
 				</div>
 
 				<!-- list -->
-				<div>
-					<a href="/casefile/?.php">
+				<div class="case_list">
+					<a href="/casefile/1.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">陽明山美軍基地</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/2.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/02_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">宏濟醫院</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/3.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/03_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">三井倉庫</span><span> Tucheng Project</span></div>
@@ -128,7 +138,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">花博指標統包工程</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/60.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/07_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Ilife</span><span> Tucheng Project</span></div>
@@ -158,7 +168,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">屋久紀露臺</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/61.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/12_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">璞園春生生</span><span> Tucheng Project</span></div>
@@ -182,7 +192,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/63.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Motif Tainan</span><span> Tucheng Project</span></div>
@@ -272,13 +282,13 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">遠揚 T-Park C</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/34.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/31_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">大尺寸淡水建案</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">大尺淡水建案</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/32.php">
+					<a href="/casefile/64.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/32_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">達麗士林陽明段</span><span> Tucheng Project</span></div>
@@ -410,7 +420,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">興隆段公共住宅E</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
-					<a href="/casefile/?.php">
+					<a href="/casefile/62.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/54_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">台中同榮段社會住宅</span><span> Tucheng Project</span></div>
