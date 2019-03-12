@@ -141,10 +141,6 @@
 						<div class="carousel-item">
 							<div id="index26"></div>
 						</div>
-						<div class="carousel-item">
-							<div id="index27"></div>
-						</div>
-
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -187,6 +183,21 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
+							<img src="theme/images/sliderImg/mobole/1.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/2.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/3.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/4.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/5.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
 							<img src="theme/images/sliderImg/mobole/6.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
@@ -287,21 +298,6 @@
 						</div>
 						<div class="carousel-item">
 							<img src="theme/images/sliderImg/mobole/39.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/40.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/41.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/42.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/43.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/44.jpg" alt="First slide">
 						</div>
 						
 
