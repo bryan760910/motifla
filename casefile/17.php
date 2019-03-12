@@ -50,8 +50,8 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="../theme/images/17/1.jpg" /></div>
-                    <div><img src="../theme/images/17/2.jpg" /></div>
+                    <div><img style="width:100%" src="../theme/images/17/1.jpg" /></div>
+                    <div><img style="width:100%" src="../theme/images/17/2.jpg" /></div>
                     <div><img src="../theme/images/17/3.jpg" /></div>
                     <div><img src="../theme/images/17/4.jpg" /></div>
                     <div><img src="../theme/images/17/5.jpg" /></div>

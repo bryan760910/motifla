@@ -34,7 +34,7 @@
 			<div class="index_wrapper" style="min-width:300px">
             	<div id="carouselExampleIndicators" class="carousel slide computerimg" data-ride="carousel">
 					<ol class="carousel-indicators mb-3">
-					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
@@ -60,7 +60,6 @@
 						<li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
-						<li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
@@ -153,7 +152,7 @@
 				</div>
 				<div id="carouselExampleIndicators2" class="carousel slide mobileimg" data-ride="carousel">
 					<ol class="carousel-indicators mb-3">
-					<li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="3"></li>
@@ -180,6 +179,18 @@
 						<li data-target="#carouselExampleIndicators2" data-slide-to="24"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="25"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="26"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="27"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="28"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="29"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="30"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="31"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="32"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="33"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="34"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="35"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="36"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="37"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="38"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
