@@ -83,20 +83,20 @@
 				<!-- second menu -->
 				<div class="showcase_second_menu clearfix">
 					<ul>
-						<li><a class="abc" href="javascript:;">all</a></li>
-						<li><a class="abc" href="javascript:;" data-type="residence">residence</a></li>
-						<li><a class="abc" href="javascript:;" data-type="culture">culture</a></li>
-						<li><a href="javascript:;" data-type="park">park</a></li>
-						<li><a href="javascript:;" data-type="garden">garden</a></li>
-						<li><a href="javascript:;">education</a></li>
-						<li><a href="javascript:;">healthcare</a></li>
-						<li><a href="javascript:;">museum</a></li>
-						<li><a href="javascript:;">sport</a></li>
-						<li><a href="javascript:;">headquarter</a></li>
-						<li><a href="javascript:;">social housing</a></li>
-						<li><a href="javascript:;">master plan</a></li>
-						<li><a href="javascript:;">land art & curation</a></li>
-						<li><a href="javascript:;">london</a></li>
+						<li><a class="category" href="javascript:;">all</a></li>
+						<li><a class="category" href="javascript:;" data-type="residence">residence</a></li>
+						<li><a class="category" href="javascript:;" data-type="culture">culture</a></li>
+						<li><a class="category" href="javascript:;" data-type="park">park</a></li>
+						<li><a class="category" href="javascript:;" data-type="garden">garden</a></li>
+						<li><a class="category" href="javascript:;">education</a></li>
+						<li><a class="category" href="javascript:;">healthcare</a></li>
+						<li><a class="category" href="javascript:;">museum</a></li>
+						<li><a class="category" href="javascript:;">sport</a></li>
+						<li><a class="category" href="javascript:;">headquarter</a></li>
+						<li><a class="category" href="javascript:;">social housing</a></li>
+						<li><a class="category" href="javascript:;">master plan</a></li>
+						<li><a class="category" href="javascript:;">land art & curation</a></li>
+						<li><a class="category" href="javascript:;">london</a></li>
 					</ul>
 				</div>
 
@@ -105,67 +105,67 @@
 					<a href="./casefile/1.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">陽明山美軍基地</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Brick Yard 33 1/3 (BY33)│陽明山美軍俱樂部</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/2.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/02_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">宏濟醫院</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Andante Cantabile│宏濟心樂章</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/3.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/03_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">三井倉庫</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">西區門戶│三井廣場</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/4.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/04_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">臺中花博</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">2018 TFE.│臺中花博植栽佈展 x 策展</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/5.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/05_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">臺中高鐵站前廣場</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">臺灣的野草地圖 x 島嶼裡的山和海│烏日高鐵</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/6.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/06_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">花博指標統包工程</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">花博指標系統設計</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/60.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/07_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">Ilife</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">i-life│僑昱建築</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/14.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/08_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">龍巖企業總部</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Lungyen Group Headquarter</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/15.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/09_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">僑昱水交社段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Green-Life│僑昱建築</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/16.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/10_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">馥華浮洲</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Bliss Origin│馥華原美</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/17.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/11_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">屋久紀露臺</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Zen garden│屋久紀</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/61.php">
@@ -195,73 +195,73 @@
 					<a href="./casefile/63.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">Motif Tainan</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">臺南育德路自宅</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/20.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/17_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">璞園林友寒</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Qingpu Project A│璞園建築 </span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/21.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/18_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">璞園平田晃久</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Qingpu Project B│璞園建築</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/22.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/19_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">忠泰廖國誠</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Jut Land Project A│忠泰建設大稻埕集合住宅</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/23.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/20_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">久泰永和</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Bo'ai Street Condominium│久泰永和博愛街</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/24.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/21_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">久泰中和</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Xingnan Section Condominium│王泰中和興南段</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/25.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/22_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">馥華中和 + 大洋中和</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Zhonghe Condominium & Large Park</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/26.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/23_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">富邦建設D1集合住宅</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Taipei Tower│富邦建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/27.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/24_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">國泰新竹</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">The Seed of Happiness│國泰禾</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/28.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/25_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">璞園天母西路都更</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tianmu Project│璞園建築</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/29.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/26_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">馥華土城明德段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tucheng Project│馥華城安</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/30.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/27_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">璞元誠寬芝蘭段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Zhilan Project│芝蘭段</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/31.php">
@@ -273,151 +273,151 @@
 					<a href="./casefile/32.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/29_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">忠泰大直北安段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Beian Project│忠泰建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/33.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/30_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">遠揚 T-Park C</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">T-Park Landscape Design│遠揚建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/34.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/31_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">大尺淡水建案</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tamsui Project│麗源建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/64.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/32_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">達麗士林陽明段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Shilin Project A│達麗建設 </span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/36.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/33_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">明緯八里大崁段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Bali Project│明緯建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/37.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/34_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">璞石麗緻</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Pause Landis│璞石麗緻溫泉會館</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/38.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/35_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">鑫怡新店央北</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Xindian Project│鑫怡建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/39.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/36_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">國泰央二</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Xindian Project│國泰建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/40.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/37_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">順天建設大豐段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Dafeng Project│順天建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/41.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/38_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">新莊青山段</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Xinzhuang Project│長群建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/19.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/39_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">板橋遠揚建設</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">T-Park Landscape Design│遠揚建設</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/42.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/40_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">淡江教會</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tamkang Church Landscape Design│淡江教會 </span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/43.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/41_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">嘉義美術館</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Chiayi Fine Arts Museum│嘉義美術館</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/44.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/42_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">水交社文化園區</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Shuijiaoshe Cultural Park│水交社文化園區</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/45.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/43_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">臺南左鎮菜寮化石文化園區二期</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tsai-liao Fossil Museum│菜寮化石館</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/46.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/44_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">新竹納骨塔</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">DPD Life Memorial Park│大坪頂生命園區</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/47.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/45_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">桃園大園橫山書道館</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Hengshan Calligraphy Park│橫山書法公園</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/48.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/46_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">旗山糖廠</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Cishan Sugar Refinery│旗山糖廠</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/49.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/47_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">新屋高中</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Taoyuan Xinwu High School│新屋高中</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/50.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/48_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">隆田考古</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Longtian Cultural Park│隆田考古園區</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/51.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/49_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">大雅汝鎏公園</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">原民生活地景│大雅汝鎏公園</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/52.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/50_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">桃園美術館</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Taoyuan City Museum of Modern Art│桃園市立美術館</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/53.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/51_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">中研院沙崙二期</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">中研院南部院區</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/54.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/52_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">信義區三興段公益住宅</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">San-Xing Sec. Social Housing│三興段公共住宅</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/55.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/53_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">興隆段公共住宅E</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Xing-long Sec. Social Housing│興隆段公共住宅</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/62.php">
@@ -429,7 +429,7 @@
 					<a href="./casefile/57.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/55_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">霧峰園區</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Wufeng District│霧峰園區整體規劃</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 					<a href="./casefile/58.php">
@@ -441,7 +441,7 @@
 					<a href="./casefile/59.php">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/57_293x200.jpg" /></div>
-							<div class="pic_vis_text"><span class="pic_vis_text2">太平聯合辦公園</span><span> Tucheng Project</span></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span><span> Tucheng Project</span></div>
 						</div>
 					</a>
 				</div>
