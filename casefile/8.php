@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 			crossorigin="anonymous"></script>
@@ -57,12 +57,12 @@
 					</p>
 				</div>
 				<div class="right_content">
-                    <div><img src="/theme/images/8/1.jpg" /></div>
-                    <div><img src="/theme/images/8/2.jpg" /></div>
-                    <div><img src="/theme/images/8/3.jpg" /></div>
-                    <div><img src="/theme/images/8/4.jpg" /></div>
-                    <div><img src="/theme/images/8/5.jpg" /></div>
-                    <div><img src="/theme/images/8/6.jpg" /></div>
+                    <div><img src="../theme/images/8/1.jpg" /></div>
+                    <div><img src="../theme/images/8/2.jpg" /></div>
+                    <div><img src="../theme/images/8/3.jpg" /></div>
+                    <div><img src="../theme/images/8/4.jpg" /></div>
+                    <div><img src="../theme/images/8/5.jpg" /></div>
+                    <div><img src="../theme/images/8/6.jpg" /></div>
 				</div>
 
 			</div>

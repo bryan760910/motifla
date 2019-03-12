@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=1100" />
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
-		<link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
 		<link rel="stylesheet" type="text/css" href="/theme/js/plugin/jquery.bxslider/jquery.bxslider.css">
@@ -40,20 +40,20 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/L-life/2019_1.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_2.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_3.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_4.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_5.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_6-1.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_6-2.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_7.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_8.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_9.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_10.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_11.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_12.jpg"/></div>
-					<div><img src="/theme/images/L-life/2019_13.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_1.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_2.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_3.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_4.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_5.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_6-1.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_6-2.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_7.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_8.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_9.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_10.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_11.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_12.jpg"/></div>
+					<div><img src="../theme/images/L-life/2019_13.jpg"/></div>
 				</div>
 
 			</div>

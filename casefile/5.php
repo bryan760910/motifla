@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 			crossorigin="anonymous"></script>
@@ -54,21 +54,21 @@
 					</p>
 				</div>
 				<div class="right_content">
-                <div><img src="/theme/images/5/1.jpg" /></div>
-                    <div><img src="/theme/images/5/10.jpg" /></div>
-                    <div><img src="/theme/images/5/11.jpg" /></div>
-                    <div><img src="/theme/images/5/12.jpg" /></div>
-                    <div><img src="/theme/images/5/14.jpg" /></div>
-                    <div><img src="/theme/images/5/16.jpg" /></div>
-                    <div><img src="/theme/images/5/2-1.jpg" /></div>
-                    <div><img src="/theme/images/5/2-2.jpg" /></div>
-                    <div><img src="/theme/images/5/3.jpg" /></div>
-                    <div><img src="/theme/images/5/4.jpg" /></div>
-                    <div><img src="/theme/images/5/5.jpg" /></div>
-                    <div><img src="/theme/images/5/6.jpg" /></div>
-                    <div><img src="/theme/images/5/8-2.jpg" /></div>
-                    <div><img src="/theme/images/5/8.jpg" /></div>
-                    <div><img src="/theme/images/5/9.jpg" /></div>
+                <div><img src="../theme/images/5/1.jpg" /></div>
+                    <div><img src="../theme/images/5/10.jpg" /></div>
+                    <div><img src="../theme/images/5/11.jpg" /></div>
+                    <div><img src="../theme/images/5/12.jpg" /></div>
+                    <div><img src="../theme/images/5/14.jpg" /></div>
+                    <div><img src="../theme/images/5/16.jpg" /></div>
+                    <div><img src="../theme/images/5/2-1.jpg" /></div>
+                    <div><img src="../theme/images/5/2-2.jpg" /></div>
+                    <div><img src="../theme/images/5/3.jpg" /></div>
+                    <div><img src="../theme/images/5/4.jpg" /></div>
+                    <div><img src="../theme/images/5/5.jpg" /></div>
+                    <div><img src="../theme/images/5/6.jpg" /></div>
+                    <div><img src="../theme/images/5/8-2.jpg" /></div>
+                    <div><img src="../theme/images/5/8.jpg" /></div>
+                    <div><img src="../theme/images/5/9.jpg" /></div>
 				</div>
 
 			</div>

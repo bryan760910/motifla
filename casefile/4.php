@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 			crossorigin="anonymous"></script>
@@ -54,44 +54,44 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="/theme/images/4/01.jpg" /></div>
-                    <div><img src="/theme/images/4/02-2.jpg" /></div>
-                    <div><img src="/theme/images/4/02.jpg" /></div>
-                    <div><img src="/theme/images/4/03.jpg" /></div>
-                    <div><img src="/theme/images/4/04-2.jpg" /></div>
-                    <div><img src="/theme/images/4/04-3.jpg" /></div>
-                    <div><img src="/theme/images/4/04.jpg" /></div>
-                    <div><img src="/theme/images/4/05-2.jpg" /></div>
-                    <div><img src="/theme/images/4/05-3.jpg" /></div>
-                    <div><img src="/theme/images/4/05.jpg" /></div>
-                    <div><img src="/theme/images/4/06-1.jpg" /></div>
-                    <div><img src="/theme/images/4/06-2.jpg" /></div>
-                    <div><img src="/theme/images/4/07-1.jpg" /></div>
-                    <div><img src="/theme/images/4/07-3.jpg" /></div>
-                    <div><img src="/theme/images/4/07-4.jpg" /></div>
-                    <div><img src="/theme/images/4/07-5.jpg" /></div>
-                    <div><img src="/theme/images/4/08-1.jpg" /></div>
-                    <div><img src="/theme/images/4/08-2.jpg" /></div>
-                    <div><img src="/theme/images/4/08-3.jpg" /></div>
-                    <div><img src="/theme/images/4/08-4.jpg" /></div>
-                    <div><img src="/theme/images/4/08-5.jpg" /></div>
-                    <div><img src="/theme/images/4/09-2.jpg" /></div>
-                    <div><img src="/theme/images/4/09-3.jpg" /></div>
-                    <div><img src="/theme/images/4/09.jpg" /></div>
-                    <div><img src="/theme/images/4/10-1.jpg" /></div>
-                    <div><img src="/theme/images/4/10-2.jpg" /></div>
-                    <div><img src="/theme/images/4/10-3.jpg" /></div>
-                    <div><img src="/theme/images/4/11-2.jpg" /></div>
-                    <div><img src="/theme/images/4/11.jpg" /></div>
-                    <div><img src="/theme/images/4/12.jpg" /></div>
-                    <div><img src="/theme/images/4/13.jpg" /></div>
-                    <div><img src="/theme/images/4/14.jpg" /></div>
-                    <div><img src="/theme/images/4/15.jpg" /></div>
-                    <div><img src="/theme/images/4/16.jpg" /></div>
-                    <div><img src="/theme/images/4/17.jpg" /></div>
-                    <div><img src="/theme/images/4/18.jpg" /></div>
-                    <div><img src="/theme/images/4/19.jpg" /></div>
-                    <div><img src="/theme/images/4/20.jpg" /></div>
+                    <div><img src="../theme/images/4/01.jpg" /></div>
+                    <div><img src="../theme/images/4/02-2.jpg" /></div>
+                    <div><img src="../theme/images/4/02.jpg" /></div>
+                    <div><img src="../theme/images/4/03.jpg" /></div>
+                    <div><img src="../theme/images/4/04-2.jpg" /></div>
+                    <div><img src="../theme/images/4/04-3.jpg" /></div>
+                    <div><img src="../theme/images/4/04.jpg" /></div>
+                    <div><img src="../theme/images/4/05-2.jpg" /></div>
+                    <div><img src="../theme/images/4/05-3.jpg" /></div>
+                    <div><img src="../theme/images/4/05.jpg" /></div>
+                    <div><img src="../theme/images/4/06-1.jpg" /></div>
+                    <div><img src="../theme/images/4/06-2.jpg" /></div>
+                    <div><img src="../theme/images/4/07-1.jpg" /></div>
+                    <div><img src="../theme/images/4/07-3.jpg" /></div>
+                    <div><img src="../theme/images/4/07-4.jpg" /></div>
+                    <div><img src="../theme/images/4/07-5.jpg" /></div>
+                    <div><img src="../theme/images/4/08-1.jpg" /></div>
+                    <div><img src="../theme/images/4/08-2.jpg" /></div>
+                    <div><img src="../theme/images/4/08-3.jpg" /></div>
+                    <div><img src="../theme/images/4/08-4.jpg" /></div>
+                    <div><img src="../theme/images/4/08-5.jpg" /></div>
+                    <div><img src="../theme/images/4/09-2.jpg" /></div>
+                    <div><img src="../theme/images/4/09-3.jpg" /></div>
+                    <div><img src="../theme/images/4/09.jpg" /></div>
+                    <div><img src="../theme/images/4/10-1.jpg" /></div>
+                    <div><img src="../theme/images/4/10-2.jpg" /></div>
+                    <div><img src="../theme/images/4/10-3.jpg" /></div>
+                    <div><img src="../theme/images/4/11-2.jpg" /></div>
+                    <div><img src="../theme/images/4/11.jpg" /></div>
+                    <div><img src="../theme/images/4/12.jpg" /></div>
+                    <div><img src="../theme/images/4/13.jpg" /></div>
+                    <div><img src="../theme/images/4/14.jpg" /></div>
+                    <div><img src="../theme/images/4/15.jpg" /></div>
+                    <div><img src="../theme/images/4/16.jpg" /></div>
+                    <div><img src="../theme/images/4/17.jpg" /></div>
+                    <div><img src="../theme/images/4/18.jpg" /></div>
+                    <div><img src="../theme/images/4/19.jpg" /></div>
+                    <div><img src="../theme/images/4/20.jpg" /></div>
 				</div>
 
 			</div>

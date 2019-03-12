@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=1100" />
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
-		<link rel="stylesheet" type="text/css" href="/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
 		<link rel="stylesheet" type="text/css" href="/theme/js/plugin/jquery.bxslider/jquery.bxslider.css">
@@ -43,9 +43,9 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/Cathay_Project_A/01.jpg" /></div>
-					<div><img src="/theme/images/Cathay_Project_A/05.jpg" /></div>
-					<div><img src="/theme/images/Cathay_Project_A/06.jpg" /></div>
+					<div><img src="../theme/images/Cathay_Project_A/01.jpg" /></div>
+					<div><img src="../theme/images/Cathay_Project_A/05.jpg" /></div>
+					<div><img src="../theme/images/Cathay_Project_A/06.jpg" /></div>
 				</div>
 
 			</div>
