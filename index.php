@@ -18,6 +18,7 @@
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="theme/css/indeximg.css" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 			crossorigin="anonymous"></script>
@@ -31,9 +32,9 @@
 		<div class="wrapper">
 			<?php include 'header.php' ?>
 			<div class="index_wrapper" style="min-width:300px">
-            	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            	<div id="carouselExampleIndicators" class="carousel slide computerimg" data-ride="carousel">
 					<ol class="carousel-indicators mb-3">
-						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
@@ -63,85 +64,85 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
-						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/1.jpg" alt="First slide">
+							<div id="index1"></div>
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/2.jpg" alt="Second slide">
+							<div id="index2"></div>
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/3.jpg" alt="Third slide">
+							<div id="index3"></div>
 						</div>
 						<div class="carousel-item">
-						<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/4.jpg" alt="First slide">
+							<div id="index4"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/5.jpg" alt="Second slide">
+							<div id="index5"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/6.jpg" alt="Third slide">
+							<div id="index6"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/7.jpg" alt="First slide">
+							<div id="index7"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/8.jpg" alt="Second slide">
+							<div id="index8"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/9.jpg" alt="Third slide">
+							<div id="index9"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/10.jpg" alt="First slide">
+							<div id="index10"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/11.jpg" alt="Second slide">
+							<div id="index11"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/12.jpg" alt="Third slide">
+							<div id="index12"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/13.jpg" alt="First slide">
+							<div id="index13"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/14.jpg" alt="Second slide">
+							<div id="index14"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/15.jpg" alt="Third slide">
+							<div id="index15"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/16.jpg" alt="First slide">
+							<div id="index16"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/17.jpg" alt="Second slide">
+							<div id="index17"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/18.jpg" alt="First slide">
+							<div id="index18"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/19.jpg" alt="Second slide">
+							<div id="index19"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/20.jpg" alt="Second slide">
+							<div id="index20"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/21.jpg" alt="First slide">
+							<div id="index21"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/22.jpg" alt="Second slide">
+							<div id="index22"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/23.jpg" alt="Second slide">
+							<div id="index23"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/24.jpg" alt="First slide">
+							<div id="index24"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/25.jpg" alt="Second slide">
+							<div id="index25"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/26.jpg" alt="Third slide">
+							<div id="index26"></div>
 						</div>
 						<div class="carousel-item">
-							<img style="height:500px" class="d-block w-100" src="theme/images/sliderImg/27.jpg" alt="First slide">
+							<div id="index27"></div>
 						</div>
 
 					</div>
@@ -154,6 +155,166 @@
 						<span class="sr-only">Next</span>
 					</a>
 				</div>
+				<div id="carouselExampleIndicators2" class="carousel slide mobileimg" data-ride="carousel">
+					<ol class="carousel-indicators mb-3">
+					<li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="3"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="4"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="5"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="6"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="7"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="8"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="9"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="10"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="11"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="12"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="13"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="14"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="15"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="16"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="17"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="18"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="19"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="20"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="21"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="22"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="23"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="24"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="25"></li>
+						<li data-target="#carouselExampleIndicators2" data-slide-to="26"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="active carousel-item">
+							<img src="theme/images/sliderImg/mobole/6.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/7.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/8.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/9.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/10.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/11.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/12.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/13.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/14.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/15.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/16.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/17.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/18.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/19.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/20.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/21.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/22.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/23.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/24.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/25.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/26.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/27.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/28.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/29.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/30.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/31.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/32.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/33.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/34.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/35.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/36.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/37.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/38.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/39.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/40.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/41.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/42.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/43.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img src="theme/images/sliderImg/mobole/44.jpg" alt="First slide">
+						</div>
+						
+
+					</div>
+					<a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
 			</div>
 			<?php include 'footer.php' ?>
 		</div>
@@ -161,13 +322,25 @@
 				$(window).resize(function() {
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
-					if (nWidth < 1140)
+					if (nWidth>500 && nWidth < 1140)
 					{
-						$('img.d-block').css( "height", nHeight-86+"px");
+
+						$(".carousel-item").each(function(index){
+							var count = index +1;
+							$("#index" + count).css( "height", nHeight-86+"px");
+
+						})
 					}
 					else if(nWidth >= 1140)
 					{
-						$('img.d-block').css( "height", 500+"px");
+						$(".carousel-item").each(function(index){
+							var count = index +1;
+							$("#index" + count).css( "height", "500px");
+						})
+					}
+					else if(nWidth < 500)
+					{
+						$(".mobileimg").css( "height", nHeight-86+"px");
 					}
 				});
 				$('.carousel').carousel({
@@ -207,13 +380,25 @@
 			$(function(){
 					var nWidth = $(window).width();//取得使用者螢幕寬
 					var nHeight = $(window).height();//取得使用者螢幕寬
-					if (nWidth < 1140)
+					if (nWidth>500 && nWidth < 1140)
 					{
-						$('img.d-block').css( "height", nHeight-86+"px");
+
+						$(".carousel-item").each(function(index){
+							var count = index +1;
+							$("#index" + count).css( "height", nHeight-86+"px");
+
+						})
 					}
 					else if(nWidth >= 1140)
 					{
-						$('img.d-block').css( "height", 500+"px");
+						$(".carousel-item").each(function(index){
+							var count = index +1;
+							$("#index" + count).css( "height", "500px");
+						})
+					}
+					else if(nWidth < 500)
+					{
+						$(".mobileimg").css( "height", nHeight-86+"px");
 					}
 
 			});
