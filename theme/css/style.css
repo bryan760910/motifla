@@ -575,7 +575,7 @@ header>p {
 /*===========================*/
 
 .wrapper .contact_page .leftside {
-    width: 430px;
+    width: 410px;
     height: 400px;
     margin-left: 2%;
 }
@@ -715,18 +715,15 @@ header>p {
 .wrapper .showcase_page .pic_vis_text {
     margin-top: 0px;
     visibility: hidden;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
+    line-height: 14px;
 }
 
 @media only screen and (max-width: 660px) {
-    .wrapper .showcase_page .pic_vis_text {
-        display: none;
-    }
     .wrapper .showcase_page .pic_vis {
-        margin-bottom: 10%;
+        
     }
 }
-
 /*===========================*/
 
 /* Publications page css          */
@@ -818,7 +815,7 @@ header>p {
     text-align: right;
     float: right;
     line-height: 25px;
-    MARGIN-RIGHT: 10PX;
+    margin-bottom: 10PX;
 }
 
 .member_second_menu>ul {
