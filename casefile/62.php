@@ -36,21 +36,21 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title red">台中同榮段社會住宅 </span> <br />
-						<span class="left_content_desc_title">Client :</span>   <br />
-                        <span class="left_content_desc_title">Location :</span>  <br />
-                        <span class="left_content_desc_title">Typology :</span>  <br />
-                        <span class="left_content_desc_title">Status :</span>   <br />
-						<span class="left_content_desc_title">Size  :</span>  <br />
-                        <span class="left_content_desc_title">Architect  :</span>  <br />
+						<span class="left_content_desc_title red">Tong-Rong Sec. Social Housing│同榮段公共住宅 </span> <br />
+						<span class="left_content_desc_title">Client :</span> Taichung City Government <br />
+                        <span class="left_content_desc_title">Location :</span> Taichung City, TW <br />
+                        <span class="left_content_desc_title">Typology :</span> residence ‧ social housing <br />
+                        <span class="left_content_desc_title">Status :</span> 2017 - built <br />
+						<span class="left_content_desc_title">Size  :</span> 1,11 ha <br />
+                        <span class="left_content_desc_title">Architect  :</span> Taisquare Architect <br />
                         <br />
 						
-                        <span class="left_content_desc_title ch">業主 :</span>   <br />
-						<span class="left_content_desc_title ch">類型 :</span>  <br />
-						<span class="left_content_desc_title ch">進度 :</span>  <br />
-                        <span class="left_content_desc_title ch">建築 :</span>  <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span>   <br />
-                        <span class="left_content_desc_title ch" style="margin-left:58px;"></span>  <br />
+                        <span class="left_content_desc_title ch">業主 :</span> 臺中市政府 <br />
+						<span class="left_content_desc_title ch">類型 :</span> 公共住宅 <br />
+						<span class="left_content_desc_title ch">進度 :</span> 2017 - 建造中 <br />
+                        <span class="left_content_desc_title ch">建築 :</span> 戴育澤建築師事務所 <br />
+                        <span class="left_content_desc_title ch">重要獎項 :</span> 2017 競圖首獎 <br />
+                        <span class="left_content_desc_title ch" style="margin-left:58px;"></span> competition winner <br />
                     </p>
 				</div>
 				<div class="right_content">
