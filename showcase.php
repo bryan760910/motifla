@@ -108,343 +108,343 @@
 
 				<!-- list -->
 				<div class="case_list">
-					<a href="./casefile/1.php" class="residence">
+					<a href="./casefile/1.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Brick Yard 33 1/3 (BY33)│陽明山美軍俱樂部</span></div>
 						</div>
 					</a>
-					<a href="./casefile/2.php" class="residence">
+					<a href="./casefile/2.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/02_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Andante Cantabile│宏濟心樂章</span></div>
 						</div>
 					</a>
-					<a href="./casefile/3.php">
+					<a href="./casefile/3.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/03_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">西區門戶│三井廣場</span></div>
 						</div>
 					</a>
-					<a href="./casefile/4.php">
+					<a href="./casefile/4.php" class="land_art_and_curation">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/04_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">2018 TFE.│臺中花博植栽佈展 x 策展</span></div>
 						</div>
 					</a>
-					<a href="./casefile/5.php">
+					<a href="./casefile/5.php" class="land_art_and_curation">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/05_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">臺灣的野草地圖 x 島嶼裡的山和海│烏日高鐵</span></div>
 						</div>
 					</a>
-					<a href="./casefile/6.php">
+					<a href="./casefile/6.php" class="land_art_and_curation">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/06_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">花博指標系統設計</span></div>
 						</div>
 					</a>
-					<a href="./casefile/60.php">
+					<a href="./casefile/60.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/07_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">i-life│僑昱建築</span></div>
 						</div>
 					</a>
-					<a href="./casefile/14.php">
+					<a href="./casefile/14.php" class="healthcare">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/08_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Lungyen Group Headquarter</span></div>
 						</div>
 					</a>
-					<a href="./casefile/15.php">
+					<a href="./casefile/15.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/09_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Green-Life│僑昱建築</span></div>
 						</div>
 					</a>
-					<a href="./casefile/16.php">
+					<a href="./casefile/16.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/10_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Bliss Origin│馥華原美</span></div>
 						</div>
 					</a>
-					<a href="./casefile/17.php">
+					<a href="./casefile/17.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/11_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Zen garden│屋久紀</span></div>
 						</div>
 					</a>
-					<a href="./casefile/61.php">
+					<a href="./casefile/61.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/12_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">璞園春生生</span></div>
 						</div>
 					</a>
-					<a href="./casefile/7.php">
+					<a href="./casefile/7.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/13_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">LEICESTER SQUARE REDESIGN</span></div>
 						</div>
 					</a>
-					<a href="./casefile/8.php">
+					<a href="./casefile/8.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/14_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Melody Lane</span></div>
 						</div>
 					</a>
-					<a href="./casefile/9.php">
+					<a href="./casefile/9.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/15_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
 						</div>
 					</a>
-					<a href="./casefile/63.php">
+					<a href="./casefile/63.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">臺南育德路自宅</span></div>
 						</div>
 					</a>
-					<a href="./casefile/20.php">
+					<a href="./casefile/20.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/17_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Qingpu Project A│璞園建築 </span></div>
 						</div>
 					</a>
-					<a href="./casefile/21.php">
+					<a href="./casefile/21.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/18_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Qingpu Project B│璞園建築</span></div>
 						</div>
 					</a>
-					<a href="./casefile/22.php">
+					<a href="./casefile/22.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/19_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Jut Land Project A│忠泰建設大稻埕集合住宅</span></div>
 						</div>
 					</a>
-					<a href="./casefile/23.php">
+					<a href="./casefile/23.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/20_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Bo'ai Street Condominium│久泰永和博愛街</span></div>
 						</div>
 					</a>
-					<a href="./casefile/24.php">
+					<a href="./casefile/24.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/21_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Xingnan Section Condominium│王泰中和興南段</span></div>
 						</div>
 					</a>
-					<a href="./casefile/25.php">
+					<a href="./casefile/25.php" class="residence park master_plan">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/22_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Zhonghe Condominium & Large Park</span></div>
 						</div>
 					</a>
-					<a href="./casefile/26.php">
+					<a href="./casefile/26.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/23_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Taipei Tower│富邦建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/27.php">
+					<a href="./casefile/27.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/24_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">The Seed of Happiness│國泰禾</span></div>
 						</div>
 					</a>
-					<a href="./casefile/28.php">
+					<a href="./casefile/28.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/25_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tianmu Project│璞園建築</span></div>
 						</div>
 					</a>
-					<a href="./casefile/29.php">
+					<a href="./casefile/29.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/26_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tucheng Project│馥華城安</span></div>
 						</div>
 					</a>
-					<a href="./casefile/30.php">
+					<a href="./casefile/30.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/27_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Zhilan Project│芝蘭段</span></div>
 						</div>
 					</a>
-					<a href="./casefile/31.php">
+					<a href="./casefile/31.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/28_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">創健建設月亮公園</span></div>
 						</div>
 					</a>
-					<a href="./casefile/32.php">
+					<a href="./casefile/32.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/29_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Beian Project│忠泰建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/33.php">
+					<a href="./casefile/33.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/30_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">T-Park Landscape Design│遠揚建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/34.php">
+					<a href="./casefile/34.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/31_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tamsui Project│麗源建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/64.php">
+					<a href="./casefile/64.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/32_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Shilin Project A│達麗建設 </span></div>
 						</div>
 					</a>
-					<a href="./casefile/36.php">
+					<a href="./casefile/36.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/33_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Bali Project│明緯建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/37.php">
+					<a href="./casefile/37.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/34_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Pause Landis│璞石麗緻溫泉會館</span></div>
 						</div>
 					</a>
-					<a href="./casefile/38.php">
+					<a href="./casefile/38.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/35_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Xindian Project│鑫怡建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/39.php">
+					<a href="./casefile/39.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/36_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Xindian Project│國泰建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/40.php">
+					<a href="./casefile/40.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/37_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Dafeng Project│順天建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/41.php">
+					<a href="./casefile/41.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/38_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Xinzhuang Project│長群建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/19.php">
+					<a href="./casefile/19.php" class="residence">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/39_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">T-Park Landscape Design│遠揚建設</span></div>
 						</div>
 					</a>
-					<a href="./casefile/42.php">
+					<a href="./casefile/42.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/40_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tamkang Church Landscape Design│淡江教會 </span></div>
 						</div>
 					</a>
-					<a href="./casefile/43.php">
+					<a href="./casefile/43.php" class="museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/41_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Chiayi Fine Arts Museum│嘉義美術館</span></div>
 						</div>
 					</a>
-					<a href="./casefile/44.php">
+					<a href="./casefile/44.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/42_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Shuijiaoshe Cultural Park│水交社文化園區</span></div>
 						</div>
 					</a>
-					<a href="./casefile/45.php">
+					<a href="./casefile/45.php" class="culture museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/43_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tsai-liao Fossil Museum│菜寮化石館</span></div>
 						</div>
 					</a>
-					<a href="./casefile/46.php">
+					<a href="./casefile/46.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/44_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">DPD Life Memorial Park│大坪頂生命園區</span></div>
 						</div>
 					</a>
-					<a href="./casefile/47.php">
+					<a href="./casefile/47.php" class="culture museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/45_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Hengshan Calligraphy Park│橫山書法公園</span></div>
 						</div>
 					</a>
-					<a href="./casefile/48.php">
+					<a href="./casefile/48.php" class="culture master_plan">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/46_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Cishan Sugar Refinery│旗山糖廠</span></div>
 						</div>
 					</a>
-					<a href="./casefile/49.php">
+					<a href="./casefile/49.php" class="education">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/47_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Taoyuan Xinwu High School│新屋高中</span></div>
 						</div>
 					</a>
-					<a href="./casefile/50.php">
+					<a href="./casefile/50.php" class="culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/48_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Longtian Cultural Park│隆田考古園區</span></div>
 						</div>
 					</a>
-					<a href="./casefile/51.php">
+					<a href="./casefile/51.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/49_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">原民生活地景│大雅汝鎏公園</span></div>
 						</div>
 					</a>
-					<a href="./casefile/52.php">
+					<a href="./casefile/52.php" class="museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/50_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Taoyuan City Museum of Modern Art│桃園市立美術館</span></div>
 						</div>
 					</a>
-					<a href="./casefile/53.php">
+					<a href="./casefile/53.php" class="culture education">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/51_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">中研院南部院區</span></div>
 						</div>
 					</a>
-					<a href="./casefile/54.php">
+					<a href="./casefile/54.php" class="residence social_housing">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/52_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">San-Xing Sec. Social Housing│三興段公共住宅</span></div>
 						</div>
 					</a>
-					<a href="./casefile/55.php">
+					<a href="./casefile/55.php" class="residence social_housing">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/53_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Xing-long Sec. Social Housing│興隆段公共住宅</span></div>
 						</div>
 					</a>
-					<a href="./casefile/62.php">
+					<a href="./casefile/62.php" class="residence social_housing">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/54_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Tong-Rong Sec. Social Housing│同榮段公共住宅</span></div>
 						</div>
 					</a>
-					<a href="./casefile/57.php">
+					<a href="./casefile/57.php" class="master_plan">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/55_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Wufeng District│霧峰園區整體規劃</span></div>
 						</div>
 					</a>
-					<a href="./casefile/58.php">
+					<a href="./casefile/58.php" class="culture park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/56_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">烏日第四墓園</span></div>
 						</div>
 					</a>
-					<a href="./casefile/59.php">
+					<a href="./casefile/59.php" class="park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/57_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span></div>
