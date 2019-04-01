@@ -290,16 +290,16 @@
 							<img src="theme/images/sliderImg/mobole/32.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/33.jpg" alt="First slide">
+							<img class="positionimg" src="theme/images/sliderImg/mobole/33.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/34.jpg" alt="First slide">
+							<img class="positionimg" src="theme/images/sliderImg/mobole/34.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
 							<img src="theme/images/sliderImg/mobole/35.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/36.jpg" alt="First slide">
+							<img class="positionimg" src="theme/images/sliderImg/mobole/36.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
 							<img src="theme/images/sliderImg/mobole/37.jpg" alt="First slide">
@@ -308,7 +308,7 @@
 							<img src="theme/images/sliderImg/mobole/38.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/39.jpg" alt="First slide">
+							<img class="positionimg" src="theme/images/sliderImg/mobole/39.jpg" alt="First slide">
 						</div>
 						
 
