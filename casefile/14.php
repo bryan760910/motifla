@@ -52,16 +52,16 @@
 				</div>
 				<div class="right_content">
                     <div><img src="../theme/images/14/1.jpg" /></div>
-                    <div><img src="../theme/images/14/10.jpg" /></div>
                     <div><img src="../theme/images/14/2.jpg" /></div>
-                    <div><img src="../theme/images/14/3-2.jpg" /></div>
                     <div><img src="../theme/images/14/3.jpg" /></div>
+                    <div><img src="../theme/images/14/3-2.jpg" /></div>
                     <div><img src="../theme/images/14/4.jpg" /></div>
                     <div><img src="../theme/images/14/5.jpg" /></div>
                     <div><img src="../theme/images/14/6.jpg" /></div>
                     <div><img src="../theme/images/14/7.jpg" /></div>
                     <div><img src="../theme/images/14/8.jpg" /></div>
                     <div><img src="../theme/images/14/9.jpg" /></div>
+                    <div><img src="../theme/images/14/10.jpg" /></div>
 				</div>
 
 			</div>

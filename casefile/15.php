@@ -53,8 +53,8 @@
 				<div class="right_content">
                     <div><img src="../theme/images/15/1.jpg" /></div>
                     <div><img src="../theme/images/15/2.jpg" /></div>
-                    <div><img src="../theme/images/15/3-2.jpg" /></div>
                     <div><img src="../theme/images/15/3.jpg" /></div>
+                    <div><img src="../theme/images/15/3-2.jpg" /></div>
                     <div><img src="../theme/images/15/4.jpg" /></div>
                     <div><img src="../theme/images/15/5.jpg" /></div>
                     <div><img src="../theme/images/15/7.jpg" /></div>

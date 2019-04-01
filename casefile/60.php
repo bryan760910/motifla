@@ -54,8 +54,8 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="../theme/images/60/1.jpg" /></div>
-                    <div><img src="../theme/images/60/2.jpg" /></div>
+                    <!-- <div><img src="../theme/images/60/1.jpg" /></div>
+                    <div><img src="../theme/images/60/2.jpg" /></div> -->
                     <div><img src="../theme/images/60/3.jpg" /></div>
                     <div><img src="../theme/images/60/4.jpg" /></div>
                     <div><img src="../theme/images/60/5.jpg" /></div>
