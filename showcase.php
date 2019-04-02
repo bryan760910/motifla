@@ -107,25 +107,25 @@
 
 				<!-- list -->
 				<div class="case_list">
-					<a href="./casefile/1.php" class="culture">
+					<a href="./casefile/1.php" class="culture museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Brick Yard 33 1/3 (BY33)│陽明山美軍俱樂部</span></div>
 						</div>
 					</a>
-					<a href="./casefile/2.php" class="healthcare">
+					<a href="./casefile/2.php" class="healthcare culture">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/02_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Andante Cantabile│宏濟心樂章</span></div>
 						</div>
 					</a>
-					<a href="./casefile/3.php" class="culture">
+					<a href="./casefile/3.php" class="culture park">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/03_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">西區門戶│三井廣場</span></div>
 						</div>
 					</a>
-					<a href="./casefile/4.php" class="land_art_and_curation">
+					<a href="./casefile/4.php" class="land_art_and_curation master_plan">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/04_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">2018 TFE.│臺中花博植栽佈展 x 策展</span></div>
@@ -149,7 +149,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">i-life│僑昱建築</span></div>
 						</div>
 					</a>
-					<a href="./casefile/14.php" class="healthcare">
+					<a href="./casefile/14.php" class="headquarter">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/08_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Lungyen Group Headquarter</span></div>
@@ -179,19 +179,19 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">璞園春生生</span></div>
 						</div>
 					</a>
-					<a href="./casefile/7.php" class="park">
+					<a href="./casefile/7.php" class="london">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/13_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">LEICESTER SQUARE REDESIGN</span></div>
 						</div>
 					</a>
-					<a href="./casefile/8.php" class="residence">
+					<a href="./casefile/8.php" class="residence london">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/14_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Melody Lane</span></div>
 						</div>
 					</a>
-					<a href="./casefile/9.php" class="park">
+					<a href="./casefile/9.php" class="london">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/15_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
