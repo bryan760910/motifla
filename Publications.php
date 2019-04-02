@@ -94,7 +94,7 @@
                         </p>
                         <br/> 
 
-                        <p><a href="news/20190308.php">2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </a>
+                        <p><a href="https://www.pechakucha.com/events/5bbf066b2dd171728798c0c1">2018  PechaKucha 20x20 / 設計師交流之夜 Vol.39 </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp聆聽花博的聲音  </a>
                         </p>
                         <br/>
 
