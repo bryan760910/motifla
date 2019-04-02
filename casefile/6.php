@@ -53,15 +53,15 @@
 					</p>
 				</div>
 				<div class="right_content">
-					<div><img src="/theme/images/6/1.jpg" /></div>
-					<div><img src="/theme/images/6/2.jpg" /></div>
-					<div><img src="/theme/images/6/2-2.jpg" /></div>
-					<div><img src="/theme/images/6/2-3.jpg" /></div>
-					<div><img src="/theme/images/6/2-4.jpg" /></div>
-					<div><img src="/theme/images/6/6.jpg" /></div>
-					<div><img src="/theme/images/6/7.jpg" /></div>
-					<div><img src="/theme/images/6/8.jpg" /></div>
-					<div><img src="/theme/images/6/10.jpg" /></div>
+					<div><img src="../theme/images/6/1.jpg" /></div>
+					<div><img src="../theme/images/6/2.jpg" /></div>
+					<div><img src="../theme/images/6/2-2.jpg" /></div>
+					<div><img src="../theme/images/6/2-3.jpg" /></div>
+					<div><img src="../theme/images/6/2-4.jpg" /></div>
+					<div><img src="../theme/images/6/6.jpg" /></div>
+					<div><img src="../theme/images/6/7.jpg" /></div>
+					<div><img src="../theme/images/6/8.jpg" /></div>
+					<div><img src="../theme/images/6/10.jpg" /></div>
 				</div>
 
 			</div>

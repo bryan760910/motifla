@@ -48,12 +48,9 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <!-- <div><img src="../theme/images/63/1.jpg" /></div> -->
                     <div><img src="../theme/images/63/2.jpg" /></div>
                     <div><img src="../theme/images/63/3.jpg" /></div>
                     <div><img src="../theme/images/63/4.jpg" /></div>
-                    <!-- <div><img src="../theme/images/63/5.jpg" /></div> -->
-                    <!-- <div><img src="../theme/images/63/6.jpg" /></div> -->
 				</div>
 
 			</div>

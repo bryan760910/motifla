@@ -65,7 +65,6 @@
                     <div><img src="../theme/images/60/8.jpg" /></div>
                     <div><img src="../theme/images/60/9.jpg" /></div>
                     <div><img src="../theme/images/60/10.jpg" /></div>
-                    <div><img src="../theme/images/60/11.jpg" /></div>
                     <div><img src="../theme/images/60/12.jpg" /></div>
                     <div><img src="../theme/images/60/13.jpg" /></div>
 				</div>

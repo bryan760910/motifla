@@ -64,13 +64,12 @@
                     <div><img src="../theme/images/3/6.jpg" /></div>
                     <div><img src="../theme/images/3/6-2.jpg" /></div>
                     <div><img src="../theme/images/3/7.jpg" /></div>
-                    <div><img src="../theme/images/3/8.jpg" /></div>
                     <div><img src="../theme/images/3/9.jpg" /></div>
                     <div><img src="../theme/images/3/10.jpg" /></div>
+					<div><img src="../theme/images/3/11.jpg" /></div>
                     <div><img src="../theme/images/3/11-2.jpg" /></div>
                     <div><img src="../theme/images/3/11-3.jpg" /></div>
                     <div><img src="../theme/images/3/11-4.jpg" /></div>
-                    <div><img src="../theme/images/3/11.jpg" /></div>
                     <div><img src="../theme/images/3/12.jpg" /></div>
                     <div><img src="../theme/images/3/13.jpg" /></div>
 				</div>
