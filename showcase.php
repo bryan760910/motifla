@@ -197,6 +197,24 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
 						</div>
 					</a>
+					<a href="./casefile/10.php" class="london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/Old_Bailey_Open_Space.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Old Bailey Open Space</span></div>
+						</div>
+					</a>
+					<a href="./casefile/11.php" class="london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/Regent_Place_London.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Regent Place London</span></div>
+						</div>
+					</a>
+					<a href="./casefile/12.php" class="london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/London_Chelsea_Barrack.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">London Chelsea Barrack</span></div>
+						</div>
+					</a>
 					<a href="./casefile/63.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
