@@ -12,7 +12,7 @@
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="theme/css/style.css?version=1" />
         <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
         <script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
         <link rel="stylesheet" type="text/css" href="/theme/js/plugin/jquery.bxslider/jquery.bxslider.css">

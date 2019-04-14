@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="theme/css/style.css?version=1" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
@@ -83,13 +83,13 @@
 			</a>
 		<div class="wrapper">
 			<?php include 'header.php' ?>
-			<div class="profile_page clearfix inner_wrapper">
+			<div class="profile_page clearfix inner_wrapper" id="profile_page">
 				<div class="member_second_menu clearfix">
-						<ul>
-						<li><a href="javascript:;" style="color:#333;">profile</a></li>
-						<li><a href="javascript:;">people</a></li>
-						<li><a href="javascript:;">employment</a></li>
-						</ul>
+					<ul>
+						<li><a href="#profile_page" style="color:#333;">profile</a></li>
+						<li><a href="#members">people</a></li>
+						<li><a href="#jobs" >employment</a></li>
+					</ul>
 				</div>
 				<div class="rightside">
                     <div class="right_content f_right">
@@ -103,14 +103,15 @@
 						<p class="desc" style="text-align: justify;">Motif 主持人 吳書原 畢業於英國AA建築學院，為英國皇家景觀建築師協會副會員(ALI)、目前於文化大學環境設計學院建築系擔任助理教授，在London及Taipei已累積多年跨國之工作資歷，執業尺度包含都市、住宅開放空間及公園之規劃與設計，期許以在倫敦多年之經驗，豐富的國際視野為業主提供新的觀點及動力。</p>
 						<br>
                 </div>
-            </div>
+			</div>
+			<div id="members"></div>
 			<div class="member_page clearfix inner_wrapper" id="member-table">
 				<div class="member_second_menu clearfix">
-						<ul>
-						<li><a href="javascript:;">profile</a></li>
-						<li><a href="javascript:;" style="color:#333;">people</a></li>
-						<li><a href="javascript:;">employment</a></li>
-						</ul>
+					<ul>
+						<li><a href="#profile_page">profile</a></li>
+						<li><a href="#members" style="color:#333;">people</a></li>
+						<li><a href="#jobs" >employment</a></li>
+					</ul>
 				</div>
 				<div class="right_content">
 					<table class="display_box" id="member_list">
@@ -274,11 +275,11 @@
             <!-- 電腦版每塊佔3/12, 平板電腦版每塊佔6/12, 手機版每塊佔12/12 -->
 				<div class="col-12">
 					<div class="member_second_menu clearfix">
-							<ul>
-							<li><a href="javascript:;">profile</a></li>
-							<li><a href="javascript:;" style="color:#333;">people</a></li>
-							<li><a href="javascript:;">employment</a></li>
-							</ul>
+						<ul>
+							<li><a href="#profile_page">profile</a></li>
+							<li><a href="#members" style="color:#333;">people</a></li>
+							<li><a href="#jobs" >employment</a></li>
+						</ul>
 					</div>
 					<div style="margin-bottom:40px;">
 						<img class="card-img-top" src="theme/images/member/director__01.jpg" alt="">
@@ -341,13 +342,13 @@
 				</div>
 			</div>
 				
-			<div class="member_page clearfix inner_wrapper">
+			<div class="member_page clearfix inner_wrapper" id="jobs">
 				<div class="member_second_menu clearfix">
-						<ul>
-						<li><a href="javascript:;">profile</a></li>
-						<li><a href="javascript:;">people</a></li>
-						<li><a href="javascript:;" style="color:#333;">employment</a></li>
-						</ul>
+					<ul>
+						<li><a href="#profile_page">profile</a></li>
+						<li><a href="#members">people</a></li>
+						<li><a href="#jobs" style="color:#333;">employment</a></li>
+					</ul>
 				</div>
 				<div class="right_content">
 					<img class="right_content"src="theme/images/employment.jpg"/>

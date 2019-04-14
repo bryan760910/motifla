@@ -362,13 +362,18 @@ header>p {
 }
 
 .mobile-nav-wrapper>ul {
-    margin-top: 25%;
+    margin: 25% 0 0 15%;
+}
+
+.mobile-nav-wrapper>ul>li {
+    margin: 25px 0;
+    text-align: left;
 }
 
 .mobile-nav-wrapper>ul>li>a {
     font-weight: 800;
     font-style: normal;
-    font-size: 25px;
+    font-size: 20px;
     letter-spacing: 3px;
     text-transform: uppercase;
     line-height: 150%;

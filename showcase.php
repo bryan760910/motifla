@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="theme/css/style.css?version=1" />
 		<!-- TODO: 連結Bootstrap所需要的js -->
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
@@ -173,7 +173,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Zen garden│屋久紀</span></div>
 						</div>
 					</a>
-					<a href="./casefile/61.php" class="residence">
+					<a href="./casefile/61.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/12_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">璞園春生生</span></div>
@@ -197,7 +197,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
 						</div>
 					</a>
-					<a href="./casefile/10.php" class="london">
+					<!-- <a href="./casefile/10.php" class="london">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/Old_Bailey_Open_Space.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Old Bailey Open Space</span></div>
@@ -214,7 +214,7 @@
 							<div class="pic_vis"><img src="theme/images/listImg/London_Chelsea_Barrack.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">London Chelsea Barrack</span></div>
 						</div>
-					</a>
+					</a> -->
 					<a href="./casefile/63.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
