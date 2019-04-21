@@ -11,6 +11,9 @@
 		<meta name="HandheldFriendly" content="true" />
 		<meta name="author" content="太研規劃設計顧問有限公司">
 		<meta name="copyright" CONTENT="太研規劃設計顧問有限公司所有">
+		<META HTTP-EQUIV="pragma" CONTENT="no-cache"> 
+		<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate"> 
+		<META HTTP-EQUIV="expires" CONTENT="0">
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		<script src="/theme/js/plugin/jquery.bxslider/jquery.bxslider.js"></script>
 		<link rel="icon" type="image/png" href="theme/images/metered-manual.png">
